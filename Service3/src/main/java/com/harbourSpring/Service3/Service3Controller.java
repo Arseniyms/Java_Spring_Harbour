@@ -23,7 +23,7 @@ public class Service3Controller {
     @GetMapping("/report/{jsonName}")
     public String getReport(@PathVariable("jsonName") String jsonName)
     {
-        List<Ship> schedule = null;
+        List<Ship> schedule;
         try {
             schedule = service3Interface.getSchedule(jsonName);
         } catch (FileNotFoundException e) {

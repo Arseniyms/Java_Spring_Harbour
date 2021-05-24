@@ -8,21 +8,19 @@ import java.util.GregorianCalendar;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
-public class UnloadingCrane implements Callable<Object> {
+public class UnloadingCrane implements Callable<Integer> {
     private Calendar currentTime;
     private int fine = 0;
-    private int size = 0;
 
     private ConcurrentLinkedQueue<Ship> ships;
 
     public UnloadingCrane(ConcurrentLinkedQueue<Ship> ships) {
         this.ships = ships;
         currentTime = new GregorianCalendar(2021, Calendar.MARCH, 31);
-        size += ships.size();
     }
 
     @Override
-    public Object call() {
+    public Integer call() {
         while (!ships.isEmpty()) {
             Ship currentShip = ships.poll();
             if(currentShip == null)
@@ -45,24 +43,17 @@ public class UnloadingCrane implements Callable<Object> {
 
             if (nextShip.getTimeOfArrival().compareTo(currentTime) < 0)
             {
-                fine += calculateFine((int) ((currentTime.getTimeInMillis() - nextShip.getTimeOfArrival().getTimeInMillis()) / 1000 / 60));
+                int delay = ((int) ((currentTime.getTimeInMillis() - nextShip.getTimeOfArrival().getTimeInMillis()) / 1000 / 60));
+                fine += Utils.PENALTY_PER_HOUR * (delay / Utils.MINUTES_OF_WAIT + (delay % Utils.MINUTES_OF_WAIT != 0 ? 1 : 0));
             }
 
             Utils.pause(Utils.STOP_TIME);
         }
-        return null;
-    }
-
-    public int calculateFine(int minutes) {
-        if (minutes % Utils.MINUTES_OF_WAIT == 0) {
-            return Utils.PENALTY_PER_HOUR * (minutes / Utils.MINUTES_OF_WAIT);
-        }
-
-        return Utils.PENALTY_PER_HOUR * (minutes / Utils.MINUTES_OF_WAIT + 1);
-    }
-
-    public int getFine() {
         return fine;
     }
+
+//    public int getFine() {
+//        return fine;
+//    }
 }
 

@@ -24,8 +24,7 @@ public class Service3Impl implements Service3Interface {
         try {
             Type itemsListType = new TypeToken<List<Ship>>() {}.getType();
             Gson gson = new Gson();
-            List<Ship> ships = gson.fromJson(responseEntity.getBody(), itemsListType);
-            return ships;
+            return gson.fromJson(responseEntity.getBody(), itemsListType);
         }
         catch(Exception e)
         {

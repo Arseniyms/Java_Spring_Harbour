@@ -15,8 +15,6 @@ public class Unloading{
     private int amountOfShips;
 
     private List<Ship> ships;
-    private ConcurrentLinkedQueue<Ship> queueOfShips;
-    private List<UnloadingCrane> cranes;
 
     public Unloading(List<Ship> ships) {
         this.ships = ships;
@@ -25,38 +23,52 @@ public class Unloading{
 
     public String startUnload() {
         while (fine >= Utils.PRICE_OF_CRANE * cranesQuantity) {
-            queueOfShips = new ConcurrentLinkedQueue<>(ships);
+            ConcurrentLinkedQueue<Ship> queueOfShips = new ConcurrentLinkedQueue<>(ships);
             fine = 0;
             cranesQuantity++;
-            cranes = new ArrayList<>(cranesQuantity);
+            List<UnloadingCrane> cranes = new ArrayList<>(cranesQuantity);
+
+            //List<Callable<Object>> clist = new ArrayList<>(cranesQuantity);
             for (int i = 0; i < cranesQuantity; i++) {
-                cranes.add(new UnloadingCrane(queueOfShips));
+                UnloadingCrane crane = new UnloadingCrane(queueOfShips);
+                cranes.add(crane);
+                //clist.add(Executors.callable(crane));
             }
+
             ExecutorService executor = Executors.newFixedThreadPool(cranesQuantity);
             try {
-                executor.invokeAll(cranes);
+                List<Future<Integer>> futures = executor.invokeAll(cranes);
+                fine = futures.stream().mapToInt(a -> {
+                    try {
+                        return a.get();
+                    } catch (InterruptedException | ExecutionException e) {
+                        e.printStackTrace();
+                    }
+                    return 0;
+                }).sum();
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
             executor.shutdown();
-
-            for (UnloadingCrane crane : cranes) {
-                fine += crane.getFine();
-            }
+//            for (UnloadingCrane crane : cranes) {
+//                fine += crane.getFine();
+//            }
         }
 
         for (Ship s : ships) {
             int temp = (int) (s.getTimeOfUnloadStart().getTimeInMillis() - s.getTimeOfArrival().getTimeInMillis()) / 1000 / 60;
             s.setTimeOfWait(temp);
         }
+
         String str = ships.get(0).getTypeOfCargo().toString() +
                 " Fine: " + fine +
                 " Amount Of Cranes: " + cranesQuantity +
                 " Amount Of Ships: " + amountOfShips +
-                " Average Time Of Wait: " + Utils.intToDateFormat(ships.stream().mapToInt(a -> a.getTimeOfWait()).sum() / amountOfShips) +
+                " Max time of wait " + Utils.intToDateFormat(ships.stream().mapToInt(a->a.getTimeOfWait()).max().orElse(0)) +
+                " Average time Of wait: " + Utils.intToDateFormat(ships.stream().mapToInt(a -> a.getTimeOfWait()).sum() / amountOfShips) +
+                " Max time of delay unload " + Utils.intToDateFormat(ships.stream().mapToInt(a->a.getDelayOfUnload()).max().orElse(0)) +
                 " Average time of delay of unload: " + Utils.intToDateFormat(ships.stream().mapToInt(a -> a.getDelayOfUnload()).sum() / amountOfShips);
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        String json = gson.toJson(ships) + gson.toJson(str) + "\n";
-        return json;
+        return gson.toJson(ships) + gson.toJson(str) + "\n";
     }
 }

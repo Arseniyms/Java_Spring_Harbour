@@ -1,7 +1,5 @@
 package common;
 
-import java.util.List;
-
 public class Utils {
     public static final int STOP_TIME = 1;
 
@@ -16,14 +14,6 @@ public class Utils {
             Thread.sleep(millis);
         } catch (InterruptedException e) {
             e.printStackTrace();
-        }
-    }
-
-    public static void printTimeTable(List<Ship> ships)
-    {
-        for (Ship ship: ships)
-        {
-            System.out.println(ship.toString());
         }
     }
 
