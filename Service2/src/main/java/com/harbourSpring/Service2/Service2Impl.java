@@ -53,7 +53,7 @@ public class Service2Impl implements Service2Interface{
             e.printStackTrace();
         }
 
-        return "Report was written to json file.\n";
+        return "Report was written to json file.";
     }
 
     List<Ship> addShipFromConsole(List<Ship> schedule) throws ParseException, IllegalArgumentException {

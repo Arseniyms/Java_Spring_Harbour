@@ -8,21 +8,26 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 
+import java.util.Scanner;
+
 @SpringBootApplication
 public class Service2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Service2Application.class, args);
 
-		String url = "http://localhost:8082/service2/postReport/ships.json";
+		Scanner scanner = new Scanner(System.in);
 
+		while(!scanner.nextLine().isEmpty()) {
+			String url = "http://localhost:8082/service2/postReport/ships.json";
 
-		HttpHeaders headers = new HttpHeaders();
-		headers.setContentType(MediaType.APPLICATION_JSON);
-		HttpEntity<String> request = new HttpEntity<>("Service 3", headers);
-		RestTemplate restTemplate = new RestTemplate();
-		ResponseEntity<String> responseEntity = restTemplate.postForEntity(url, request ,String.class);
-		System.out.println(responseEntity.getBody());
+			HttpHeaders headers = new HttpHeaders();
+			headers.setContentType(MediaType.APPLICATION_JSON);
+			HttpEntity<String> request = new HttpEntity<>("Service 3", headers);
+			RestTemplate restTemplate = new RestTemplate();
+			ResponseEntity<String> responseEntity = restTemplate.postForEntity(url, request, String.class);
+			System.out.println(responseEntity.getBody());
+		}
 	}
 
 }

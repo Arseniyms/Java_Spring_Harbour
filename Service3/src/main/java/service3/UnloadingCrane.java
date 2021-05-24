@@ -9,15 +9,9 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class UnloadingCrane implements Callable<Object> {
-
     private Calendar currentTime;
     private int fine = 0;
-
     private int size = 0;
-
-    public int getSize() {
-        return size;
-    }
 
     private ConcurrentLinkedQueue<Ship> ships;
 
@@ -31,11 +25,11 @@ public class UnloadingCrane implements Callable<Object> {
     public Object call() {
         while (!ships.isEmpty()) {
             Ship currentShip = ships.poll();
-
             if(currentShip == null)
             {
                 break;
             }
+
             currentTime.setTimeInMillis(Math.max(currentShip.getTimeOfArrival().getTimeInMillis(), currentTime.getTimeInMillis()));
             Calendar temp = (Calendar) currentTime.clone();
             temp.add(Calendar.MINUTE, currentShip.getTimeOfWait());
@@ -69,18 +63,6 @@ public class UnloadingCrane implements Callable<Object> {
 
     public int getFine() {
         return fine;
-    }
-
-    public void setFine(int fine) {
-        this.fine = fine;
-    }
-
-    public ConcurrentLinkedQueue<Ship> getShips() {
-        return ships;
-    }
-
-    public void setShips(ConcurrentLinkedQueue<Ship> ships) {
-        this.ships = ships;
     }
 }
 

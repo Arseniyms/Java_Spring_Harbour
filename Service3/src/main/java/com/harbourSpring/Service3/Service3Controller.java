@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import service3.Unloading;
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,7 +23,12 @@ public class Service3Controller {
     @GetMapping("/report/{jsonName}")
     public String getReport(@PathVariable("jsonName") String jsonName)
     {
-        List<Ship> schedule = service3Interface.getSchedule(jsonName);
+        List<Ship> schedule = null;
+        try {
+            schedule = service3Interface.getSchedule(jsonName);
+        } catch (FileNotFoundException e) {
+            return e.getMessage();
+        }
         String str = "";
         for (TypeOfCargo type: TypeOfCargo.values())
         {
@@ -34,7 +40,7 @@ public class Service3Controller {
             }
 
             Unloading unloading = new Unloading(list);
-            str += (unloading.call());
+            str += unloading.startUnload();
         }
 
         return str;
