@@ -17,16 +17,17 @@ public class Service2Application {
 		SpringApplication.run(Service2Application.class, args);
 
 		Scanner scanner = new Scanner(System.in);
-
-		while(!scanner.nextLine().isEmpty()) {
-			String url = "http://localhost:8082/service2/postReport/ships.json";
+		String jsonName = scanner.nextLine();
+		while(!jsonName.isEmpty()) {
+			String url = "http://localhost:8082/service2/postReport";
 
 			HttpHeaders headers = new HttpHeaders();
 			headers.setContentType(MediaType.APPLICATION_JSON);
-			HttpEntity<String> request = new HttpEntity<>("Service 3", headers);
+			HttpEntity<String> request = new HttpEntity<>(jsonName, headers);
 			RestTemplate restTemplate = new RestTemplate();
 			ResponseEntity<String> responseEntity = restTemplate.postForEntity(url, request, String.class);
 			System.out.println(responseEntity.getBody());
+			jsonName = scanner.nextLine();
 		}
 	}
 

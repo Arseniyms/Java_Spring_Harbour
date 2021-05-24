@@ -3,6 +3,7 @@ package com.harbourSpring.Service2;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import common.Ship;
+import common.Utils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -63,8 +64,8 @@ public class Service2Controller {
         }
     }
 
-    @PostMapping("/postReport/{jsonName}")
-    public String postReport(@PathVariable("jsonName") String jsonName) {
-        return service2Interface.postReport(jsonName);
+    @PostMapping("/postReport")
+    public String postReport(@RequestBody String string) {
+        return service2Interface.postReport(string);
     }
 }

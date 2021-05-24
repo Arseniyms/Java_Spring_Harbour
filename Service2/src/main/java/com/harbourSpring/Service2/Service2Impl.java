@@ -46,6 +46,10 @@ public class Service2Impl implements Service2Interface{
         RestTemplate restTemplate = new RestTemplate();
         ResponseEntity<String> responseEntity = restTemplate.getForEntity(url, String.class);
 
+        if(responseEntity.getBody().equals("File was not found.")){
+            return "File was not found.";
+        }
+
         try (FileWriter file = new FileWriter("report.json")) {
             file.write(responseEntity.getBody());
             file.flush();

@@ -1,4230 +1,2758 @@
 [
   {
-    "nameOfShip": "Bulker-15",
+    "nameOfShip": "Bulker-33",
     "typeOfCargo": "BULKER",
-    "weight": 7720,
+    "weight": 8533,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 3,
-      "hourOfDay": 8,
-      "minute": 31,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 5,
-      "hourOfDay": 8,
-      "minute": 31,
-      "second": 0
-    },
-    "timeOfUnload": 1550,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 3,
-      "hourOfDay": 8,
-      "minute": 31,
-      "second": 0
-    },
-    "delayOfUnload": 264
-  },
-  {
-    "nameOfShip": "Bulker-39",
-    "typeOfCargo": "BULKER",
-    "weight": 9423,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 5,
-      "hourOfDay": 15,
-      "minute": 39,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 1,
-      "hourOfDay": 15,
-      "minute": 39,
-      "second": 0
-    },
-    "timeOfUnload": 2549,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 5,
-      "hourOfDay": 15,
-      "minute": 39,
-      "second": 0
-    },
-    "delayOfUnload": 979
-  },
-  {
-    "nameOfShip": "Bulker-41",
-    "typeOfCargo": "BULKER",
-    "weight": 9238,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 5,
-      "hourOfDay": 20,
-      "minute": 2,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 20,
-      "minute": 2,
-      "second": 0
-    },
-    "timeOfUnload": 2961,
-    "timeOfWait": 2286,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 10,
-      "minute": 8,
-      "second": 0
-    },
-    "delayOfUnload": 1422
-  },
-  {
-    "nameOfShip": "Bulker-13",
-    "typeOfCargo": "BULKER",
-    "weight": 3495,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 6,
       "hourOfDay": 18,
-      "minute": 16,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 6,
-      "hourOfDay": 18,
-      "minute": 16,
-      "second": 0
-    },
-    "timeOfUnload": 768,
-    "timeOfWait": 952,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 10,
-      "minute": 8,
-      "second": 0
-    },
-    "delayOfUnload": 186
-  },
-  {
-    "nameOfShip": "Bulker-6",
-    "typeOfCargo": "BULKER",
-    "weight": 9474,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 5,
-      "minute": 5,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 5,
-      "minute": 5,
-      "second": 0
-    },
-    "timeOfUnload": 2568,
-    "timeOfWait": 4242,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 3,
-      "minute": 47,
-      "second": 0
-    },
-    "delayOfUnload": 989
-  },
-  {
-    "nameOfShip": "Bulker-40",
-    "typeOfCargo": "BULKER",
-    "weight": 4426,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 17,
-      "minute": 55,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 17,
-      "minute": 55,
-      "second": 0
-    },
-    "timeOfUnload": 2021,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 17,
-      "minute": 55,
-      "second": 0
-    },
-    "delayOfUnload": 1284
-  },
-  {
-    "nameOfShip": "Bulker-1",
-    "typeOfCargo": "BULKER",
-    "weight": 698,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 21,
-      "minute": 53,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 5,
-      "hourOfDay": 21,
-      "minute": 53,
-      "second": 0
-    },
-    "timeOfUnload": 1512,
-    "timeOfWait": 4887,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 7,
-      "minute": 20,
-      "second": 0
-    },
-    "delayOfUnload": 1396
-  },
-  {
-    "nameOfShip": "Bulker-28",
-    "typeOfCargo": "BULKER",
-    "weight": 4333,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 14,
       "minute": 13,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 14,
+      "dayOfMonth": 7,
+      "hourOfDay": 18,
       "minute": 13,
       "second": 0
     },
-    "timeOfUnload": 1252,
-    "timeOfWait": 1606,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 9,
-      "hourOfDay": 16,
-      "minute": 59,
-      "second": 0
-    },
-    "delayOfUnload": 530
-  },
-  {
-    "nameOfShip": "Bulker-8",
-    "typeOfCargo": "BULKER",
-    "weight": 3663,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 19,
-      "minute": 42,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 19,
-      "minute": 42,
-      "second": 0
-    },
-    "timeOfUnload": 1817,
-    "timeOfWait": 6256,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 3,
-      "minute": 58,
-      "second": 0
-    },
-    "delayOfUnload": 1207
-  },
-  {
-    "nameOfShip": "Bulker-27",
-    "typeOfCargo": "BULKER",
-    "weight": 5410,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 2,
-      "minute": 43,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 2,
-      "minute": 43,
-      "second": 0
-    },
-    "timeOfUnload": 1357,
+    "timeOfUnload": 2192,
     "timeOfWait": 0,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 2,
-      "minute": 43,
+      "dayOfMonth": 3,
+      "hourOfDay": 18,
+      "minute": 13,
       "second": 0
     },
-    "delayOfUnload": 456
-  },
-  {
-    "nameOfShip": "Bulker-34",
-    "typeOfCargo": "BULKER",
-    "weight": 7686,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 15,
-      "minute": 45,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 15,
-      "minute": 45,
-      "second": 0
-    },
-    "timeOfUnload": 1678,
-    "timeOfWait": 4201,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 13,
-      "minute": 46,
-      "second": 0
-    },
-    "delayOfUnload": 397
-  },
-  {
-    "nameOfShip": "Bulker-20",
-    "typeOfCargo": "BULKER",
-    "weight": 3466,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 20,
-      "minute": 11,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 4,
-      "hourOfDay": 20,
-      "minute": 11,
-      "second": 0
-    },
-    "timeOfUnload": 1809,
-    "timeOfWait": 446,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 3,
-      "minute": 37,
-      "second": 0
-    },
-    "delayOfUnload": 1232
-  },
-  {
-    "nameOfShip": "Bulker-17",
-    "typeOfCargo": "BULKER",
-    "weight": 5362,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 4,
-      "minute": 31,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 4,
-      "minute": 31,
-      "second": 0
-    },
-    "timeOfUnload": 1850,
-    "timeOfWait": 184,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 7,
-      "minute": 35,
-      "second": 0
-    },
-    "delayOfUnload": 957
-  },
-  {
-    "nameOfShip": "Bulker-44",
-    "typeOfCargo": "BULKER",
-    "weight": 9714,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 19,
-      "minute": 17,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 19,
-      "minute": 17,
-      "second": 0
-    },
-    "timeOfUnload": 2993,
-    "timeOfWait": 2787,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 17,
-      "minute": 44,
-      "second": 0
-    },
-    "delayOfUnload": 1374
-  },
-  {
-    "nameOfShip": "Bulker-18",
-    "typeOfCargo": "BULKER",
-    "weight": 318,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 10,
-      "minute": 44,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 9,
-      "hourOfDay": 10,
-      "minute": 44,
-      "second": 0
-    },
-    "timeOfUnload": 63,
-    "timeOfWait": 4853,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 19,
-      "minute": 37,
-      "second": 0
-    },
-    "delayOfUnload": 10
+    "delayOfUnload": 770
   },
   {
     "nameOfShip": "Bulker-7",
     "typeOfCargo": "BULKER",
-    "weight": 1399,
+    "weight": 7565,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 10,
-      "minute": 0,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 10,
-      "minute": 0,
-      "second": 0
-    },
-    "timeOfUnload": 1221,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 10,
-      "minute": 0,
-      "second": 0
-    },
-    "delayOfUnload": 988
-  },
-  {
-    "nameOfShip": "Bulker-45",
-    "typeOfCargo": "BULKER",
-    "weight": 7654,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 12,
-      "minute": 54,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 12,
-      "minute": 54,
-      "second": 0
-    },
-    "timeOfUnload": 1339,
-    "timeOfWait": 1047,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 15,
-      "hourOfDay": 6,
-      "minute": 21,
-      "second": 0
-    },
-    "delayOfUnload": 64
-  },
-  {
-    "nameOfShip": "Bulker-19",
-    "typeOfCargo": "BULKER",
-    "weight": 2660,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 15,
-      "hourOfDay": 22,
+      "dayOfMonth": 7,
+      "hourOfDay": 20,
       "minute": 38,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 22,
+      "dayOfMonth": 10,
+      "hourOfDay": 20,
       "minute": 38,
       "second": 0
     },
-    "timeOfUnload": 578,
-    "timeOfWait": 1322,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 20,
-      "minute": 40,
-      "second": 0
-    },
-    "delayOfUnload": 135
-  },
-  {
-    "nameOfShip": "Bulker-42",
-    "typeOfCargo": "BULKER",
-    "weight": 5366,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 16,
-      "minute": 18,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 16,
-      "minute": 18,
-      "second": 0
-    },
-    "timeOfUnload": 2024,
+    "timeOfUnload": 1323,
     "timeOfWait": 0,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 16,
-      "minute": 18,
-      "second": 0
-    },
-    "delayOfUnload": 1130
-  },
-  {
-    "nameOfShip": "Bulker-22",
-    "typeOfCargo": "BULKER",
-    "weight": 9553,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
+      "dayOfMonth": 7,
       "hourOfDay": 20,
-      "minute": 11,
+      "minute": 38,
       "second": 0
     },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 20,
-      "minute": 11,
-      "second": 0
-    },
-    "timeOfUnload": 2726,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 20,
-      "minute": 11,
-      "second": 0
-    },
-    "delayOfUnload": 1134
-  },
-  {
-    "nameOfShip": "Bulker-29",
-    "typeOfCargo": "BULKER",
-    "weight": 4925,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 19,
-      "minute": 57,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 19,
-      "minute": 57,
-      "second": 0
-    },
-    "timeOfUnload": 1750,
-    "timeOfWait": 365,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 2,
-      "minute": 2,
-      "second": 0
-    },
-    "delayOfUnload": 930
-  },
-  {
-    "nameOfShip": "Bulker-14",
-    "typeOfCargo": "BULKER",
-    "weight": 6758,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 4,
-      "minute": 34,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 4,
-      "minute": 34,
-      "second": 0
-    },
-    "timeOfUnload": 1676,
-    "timeOfWait": 783,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 17,
-      "minute": 37,
-      "second": 0
-    },
-    "delayOfUnload": 550
-  },
-  {
-    "nameOfShip": "Bulker-10",
-    "typeOfCargo": "BULKER",
-    "weight": 1080,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 20,
-      "minute": 2,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 20,
-      "minute": 2,
-      "second": 0
-    },
-    "timeOfUnload": 1576,
-    "timeOfWait": 670,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 7,
-      "minute": 12,
-      "second": 0
-    },
-    "delayOfUnload": 1396
-  },
-  {
-    "nameOfShip": "Bulker-32",
-    "typeOfCargo": "BULKER",
-    "weight": 8204,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 20,
-      "minute": 50,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 20,
-      "minute": 50,
-      "second": 0
-    },
-    "timeOfUnload": 2149,
-    "timeOfWait": 43,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 21,
-      "minute": 33,
-      "second": 0
-    },
-    "delayOfUnload": 782
-  },
-  {
-    "nameOfShip": "Bulker-11",
-    "typeOfCargo": "BULKER",
-    "weight": 1912,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 10,
-      "minute": 5,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 10,
-      "minute": 5,
-      "second": 0
-    },
-    "timeOfUnload": 477,
-    "timeOfWait": 2751,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 7,
-      "minute": 56,
-      "second": 0
-    },
-    "delayOfUnload": 159
-  },
-  {
-    "nameOfShip": "Bulker-23",
-    "typeOfCargo": "BULKER",
-    "weight": 8711,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 14,
-      "minute": 4,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 14,
-      "minute": 4,
-      "second": 0
-    },
-    "timeOfUnload": 1940,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 14,
-      "minute": 4,
-      "second": 0
-    },
-    "delayOfUnload": 489
-  },
-  {
-    "nameOfShip": "Bulker-43",
-    "typeOfCargo": "BULKER",
-    "weight": 7966,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 16,
-      "minute": 26,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 16,
-      "minute": 26,
-      "second": 0
-    },
-    "timeOfUnload": 1551,
-    "timeOfWait": 1798,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 22,
-      "minute": 24,
-      "second": 0
-    },
-    "delayOfUnload": 224
-  },
-  {
-    "nameOfShip": "Bulker-33",
-    "typeOfCargo": "BULKER",
-    "weight": 7328,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 11,
-      "minute": 57,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 11,
-      "minute": 57,
-      "second": 0
-    },
-    "timeOfUnload": 1843,
-    "timeOfWait": 702,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 23,
-      "minute": 39,
-      "second": 0
-    },
-    "delayOfUnload": 622
-  },
-  {
-    "nameOfShip": "Bulker-9",
-    "typeOfCargo": "BULKER",
-    "weight": 1356,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 17,
-      "minute": 10,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 17,
-      "minute": 10,
-      "second": 0
-    },
-    "timeOfUnload": 481,
-    "timeOfWait": 1852,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 0,
-      "minute": 2,
-      "second": 0
-    },
-    "delayOfUnload": 255
-  },
-  {
-    "nameOfShip": "Bulker-21",
-    "typeOfCargo": "BULKER",
-    "weight": 4135,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 19,
-      "minute": 33,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 19,
-      "minute": 33,
-      "second": 0
-    },
-    "timeOfUnload": 1282,
-    "timeOfWait": 1893,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 3,
-      "minute": 6,
-      "second": 0
-    },
-    "delayOfUnload": 593
-  },
-  {
-    "nameOfShip": "Bulker-5",
-    "typeOfCargo": "BULKER",
-    "weight": 4907,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 2,
-      "minute": 36,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 2,
-      "minute": 36,
-      "second": 0
-    },
-    "timeOfUnload": 2129,
-    "timeOfWait": 3111,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 6,
-      "minute": 27,
-      "second": 0
-    },
-    "delayOfUnload": 1312
-  },
-  {
-    "nameOfShip": "Bulker-16",
-    "typeOfCargo": "BULKER",
-    "weight": 4047,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 4,
-      "minute": 15,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 4,
-      "minute": 15,
-      "second": 0
-    },
-    "timeOfUnload": 1728,
-    "timeOfWait": 2482,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 21,
-      "minute": 37,
-      "second": 0
-    },
-    "delayOfUnload": 1054
-  },
-  {
-    "nameOfShip": "Bulker-26",
-    "typeOfCargo": "BULKER",
-    "weight": 6076,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 11,
-      "minute": 15,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 11,
-      "minute": 15,
-      "second": 0
-    },
-    "timeOfUnload": 1822,
-    "timeOfWait": 3888,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 4,
-      "minute": 3,
-      "second": 0
-    },
-    "delayOfUnload": 810
-  },
-  {
-    "nameOfShip": "Bulker-3",
-    "typeOfCargo": "BULKER",
-    "weight": 6507,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 5,
-      "minute": 32,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 5,
-      "minute": 32,
-      "second": 0
-    },
-    "timeOfUnload": 2342,
-    "timeOfWait": 3929,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 23,
-      "minute": 1,
-      "second": 0
-    },
-    "delayOfUnload": 1258
-  },
-  {
-    "nameOfShip": "Bulker-30",
-    "typeOfCargo": "BULKER",
-    "weight": 2842,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 16,
-      "minute": 33,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 16,
-      "minute": 33,
-      "second": 0
-    },
-    "timeOfUnload": 1147,
-    "timeOfWait": 5570,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 13,
-      "minute": 23,
-      "second": 0
-    },
-    "delayOfUnload": 674
-  },
-  {
-    "nameOfShip": "Bulker-31",
-    "typeOfCargo": "BULKER",
-    "weight": 3240,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 16,
-      "minute": 10,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 16,
-      "minute": 10,
-      "second": 0
-    },
-    "timeOfUnload": 813,
-    "timeOfWait": 2024,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 1,
-      "minute": 54,
-      "second": 0
-    },
-    "delayOfUnload": 273
+    "delayOfUnload": 63
   },
   {
     "nameOfShip": "Bulker-37",
     "typeOfCargo": "BULKER",
-    "weight": 4610,
+    "weight": 7768,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 21,
-      "minute": 13,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 21,
-      "minute": 13,
-      "second": 0
-    },
-    "timeOfUnload": 1414,
-    "timeOfWait": 4311,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 21,
-      "minute": 4,
-      "second": 0
-    },
-    "delayOfUnload": 646
-  },
-  {
-    "nameOfShip": "Bulker-36",
-    "typeOfCargo": "BULKER",
-    "weight": 5101,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 5,
-      "minute": 32,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 5,
-      "minute": 32,
-      "second": 0
-    },
-    "timeOfUnload": 2237,
-    "timeOfWait": 2733,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 3,
-      "minute": 5,
-      "second": 0
-    },
-    "delayOfUnload": 1387
-  },
-  {
-    "nameOfShip": "Bulker-4",
-    "typeOfCargo": "BULKER",
-    "weight": 6538,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 18,
-      "minute": 58,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 18,
-      "minute": 58,
-      "second": 0
-    },
-    "timeOfUnload": 2119,
-    "timeOfWait": 3910,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 30,
+      "dayOfMonth": 9,
       "hourOfDay": 12,
-      "minute": 8,
-      "second": 0
-    },
-    "delayOfUnload": 1030
-  },
-  {
-    "nameOfShip": "Bulker-2",
-    "typeOfCargo": "BULKER",
-    "weight": 4890,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 6,
-      "minute": 16,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 6,
-      "minute": 16,
-      "second": 0
-    },
-    "timeOfUnload": 915,
-    "timeOfWait": 4239,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 1,
-      "hourOfDay": 4,
-      "minute": 55,
-      "second": 0
-    },
-    "delayOfUnload": 100
-  },
-  {
-    "nameOfShip": "Bulker-12",
-    "typeOfCargo": "BULKER",
-    "weight": 5480,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 16,
-      "minute": 16,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 16,
-      "minute": 16,
-      "second": 0
-    },
-    "timeOfUnload": 2318,
-    "timeOfWait": 3944,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 1,
-      "hourOfDay": 10,
-      "minute": 0,
-      "second": 0
-    },
-    "delayOfUnload": 1405
-  },
-  {
-    "nameOfShip": "Bulker-38",
-    "typeOfCargo": "BULKER",
-    "weight": 1487,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 17,
-      "minute": 18,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 17,
-      "minute": 18,
-      "second": 0
-    },
-    "timeOfUnload": 1314,
-    "timeOfWait": 3249,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 1,
-      "hourOfDay": 23,
-      "minute": 27,
-      "second": 0
-    },
-    "delayOfUnload": 1067
-  }
-]"Bulker Fine: 66200 Amount Of Cranes: 3 Amount Of Ships: 42 Max time of wait 4:8:16 Average time Of wait: 1:11:26 Max time of delay unload 0:23:42 Average time of delay of unload: 0:13:9"
-[
-  {
-    "nameOfShip": "Container-53",
-    "typeOfCargo": "CONTAINER",
-    "weight": 4555,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 1,
-      "hourOfDay": 19,
-      "minute": 27,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 19,
-      "minute": 27,
-      "second": 0
-    },
-    "timeOfUnload": 2108,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 1,
-      "hourOfDay": 19,
-      "minute": 27,
-      "second": 0
-    },
-    "delayOfUnload": 970
-  },
-  {
-    "nameOfShip": "Container-13",
-    "typeOfCargo": "CONTAINER",
-    "weight": 642,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 2,
-      "hourOfDay": 3,
-      "minute": 49,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 3,
-      "minute": 49,
-      "second": 0
-    },
-    "timeOfUnload": 176,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 2,
-      "hourOfDay": 3,
-      "minute": 49,
-      "second": 0
-    },
-    "delayOfUnload": 16
-  },
-  {
-    "nameOfShip": "Container-30",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2611,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 2,
-      "hourOfDay": 17,
-      "minute": 42,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 6,
-      "hourOfDay": 17,
-      "minute": 42,
-      "second": 0
-    },
-    "timeOfUnload": 992,
-    "timeOfWait": 773,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 3,
-      "hourOfDay": 6,
-      "minute": 35,
-      "second": 0
-    },
-    "delayOfUnload": 340
-  },
-  {
-    "nameOfShip": "Container-47",
-    "typeOfCargo": "CONTAINER",
-    "weight": 192,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 3,
-      "hourOfDay": 18,
-      "minute": 47,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 18,
-      "minute": 47,
-      "second": 0
-    },
-    "timeOfUnload": 508,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 3,
-      "hourOfDay": 18,
-      "minute": 47,
-      "second": 0
-    },
-    "delayOfUnload": 460
-  },
-  {
-    "nameOfShip": "Container-46",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2210,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 4,
-      "hourOfDay": 11,
-      "minute": 41,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 11,
-      "minute": 41,
-      "second": 0
-    },
-    "timeOfUnload": 1780,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 4,
-      "hourOfDay": 11,
-      "minute": 41,
-      "second": 0
-    },
-    "delayOfUnload": 1228
-  },
-  {
-    "nameOfShip": "Container-12",
-    "typeOfCargo": "CONTAINER",
-    "weight": 4939,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 6,
-      "hourOfDay": 14,
-      "minute": 13,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 3,
-      "hourOfDay": 14,
-      "minute": 13,
-      "second": 0
-    },
-    "timeOfUnload": 1280,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 6,
-      "hourOfDay": 14,
-      "minute": 13,
-      "second": 0
-    },
-    "delayOfUnload": 46
-  },
-  {
-    "nameOfShip": "Container-23",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2865,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 6,
-      "hourOfDay": 17,
-      "minute": 11,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 17,
-      "minute": 11,
-      "second": 0
-    },
-    "timeOfUnload": 1872,
-    "timeOfWait": 1102,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 11,
-      "minute": 33,
-      "second": 0
-    },
-    "delayOfUnload": 1156
-  },
-  {
-    "nameOfShip": "Container-5",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3812,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 5,
-      "minute": 19,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 5,
-      "minute": 19,
-      "second": 0
-    },
-    "timeOfUnload": 2302,
-    "timeOfWait": 374,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 11,
-      "minute": 33,
-      "second": 0
-    },
-    "delayOfUnload": 1349
-  },
-  {
-    "nameOfShip": "Container-55",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1598,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 19,
-      "minute": 53,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 2,
-      "hourOfDay": 19,
-      "minute": 53,
-      "second": 0
-    },
-    "timeOfUnload": 1230,
-    "timeOfWait": 1372,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 18,
-      "minute": 45,
-      "second": 0
-    },
-    "delayOfUnload": 831
-  },
-  {
-    "nameOfShip": "Container-43",
-    "typeOfCargo": "CONTAINER",
-    "weight": 505,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 5,
-      "minute": 35,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 5,
-      "minute": 35,
-      "second": 0
-    },
-    "timeOfUnload": 487,
-    "timeOfWait": 846,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 19,
-      "minute": 41,
-      "second": 0
-    },
-    "delayOfUnload": 361
-  },
-  {
-    "nameOfShip": "Container-33",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1221,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 6,
-      "minute": 28,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 4,
-      "hourOfDay": 6,
-      "minute": 28,
-      "second": 0
-    },
-    "timeOfUnload": 1425,
-    "timeOfWait": 2562,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 1,
-      "minute": 10,
-      "second": 0
-    },
-    "delayOfUnload": 1120
-  },
-  {
-    "nameOfShip": "Container-7",
-    "typeOfCargo": "CONTAINER",
-    "weight": 324,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 13,
-      "minute": 51,
+      "minute": 2,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 5,
-      "hourOfDay": 13,
-      "minute": 51,
+      "hourOfDay": 12,
+      "minute": 2,
       "second": 0
     },
-    "timeOfUnload": 304,
-    "timeOfWait": 1561,
+    "timeOfUnload": 2249,
+    "timeOfWait": 0,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 9,
-      "hourOfDay": 15,
-      "minute": 52,
+      "hourOfDay": 12,
+      "minute": 2,
       "second": 0
     },
-    "delayOfUnload": 223
+    "delayOfUnload": 955
   },
   {
-    "nameOfShip": "Container-27",
-    "typeOfCargo": "CONTAINER",
-    "weight": 372,
+    "nameOfShip": "Bulker-2",
+    "typeOfCargo": "BULKER",
+    "weight": 9150,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 9,
-      "hourOfDay": 2,
-      "minute": 19,
+      "dayOfMonth": 10,
+      "hourOfDay": 1,
+      "minute": 35,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 5,
+      "hourOfDay": 1,
+      "minute": 35,
+      "second": 0
+    },
+    "timeOfUnload": 2103,
+    "timeOfWait": 1436,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 1,
+      "minute": 31,
+      "second": 0
+    },
+    "delayOfUnload": 578
+  },
+  {
+    "nameOfShip": "Bulker-32",
+    "typeOfCargo": "BULKER",
+    "weight": 6620,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 13,
+      "minute": 33,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 16,
-      "hourOfDay": 2,
-      "minute": 19,
+      "hourOfDay": 13,
+      "minute": 33,
       "second": 0
     },
-    "timeOfUnload": 1391,
-    "timeOfWait": 1222,
+    "timeOfUnload": 1200,
+    "timeOfWait": 3539,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 9,
-      "hourOfDay": 22,
-      "minute": 41,
+      "dayOfMonth": 13,
+      "hourOfDay": 0,
+      "minute": 32,
       "second": 0
     },
-    "delayOfUnload": 1298
+    "delayOfUnload": 97
   },
   {
-    "nameOfShip": "Container-2",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2019,
+    "nameOfShip": "Bulker-25",
+    "typeOfCargo": "BULKER",
+    "weight": 9549,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 9,
-      "hourOfDay": 15,
-      "minute": 20,
+      "dayOfMonth": 11,
+      "hourOfDay": 20,
+      "minute": 33,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 15,
-      "minute": 20,
+      "dayOfMonth": 16,
+      "hourOfDay": 20,
+      "minute": 33,
       "second": 0
     },
-    "timeOfUnload": 1707,
-    "timeOfWait": 1420,
+    "timeOfUnload": 2458,
+    "timeOfWait": 2161,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 15,
-      "minute": 0,
+      "dayOfMonth": 13,
+      "hourOfDay": 8,
+      "minute": 34,
       "second": 0
     },
-    "delayOfUnload": 1203
+    "delayOfUnload": 867
   },
   {
-    "nameOfShip": "Container-48",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1214,
+    "nameOfShip": "Bulker-8",
+    "typeOfCargo": "BULKER",
+    "weight": 7072,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 9,
+      "dayOfMonth": 11,
+      "hourOfDay": 20,
+      "minute": 56,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 20,
+      "minute": 56,
+      "second": 0
+    },
+    "timeOfUnload": 1446,
+    "timeOfWait": 4631,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 2,
+      "minute": 7,
+      "second": 0
+    },
+    "delayOfUnload": 268
+  },
+  {
+    "nameOfShip": "Bulker-18",
+    "typeOfCargo": "BULKER",
+    "weight": 1760,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 12,
+      "hourOfDay": 6,
+      "minute": 17,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 6,
+      "minute": 17,
+      "second": 0
+    },
+    "timeOfUnload": 1688,
+    "timeOfWait": 6401,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 16,
+      "minute": 58,
+      "second": 0
+    },
+    "delayOfUnload": 1395
+  },
+  {
+    "nameOfShip": "Bulker-35",
+    "typeOfCargo": "BULKER",
+    "weight": 1118,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
       "hourOfDay": 22,
-      "minute": 25,
+      "minute": 34,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 22,
+      "minute": 34,
+      "second": 0
+    },
+    "timeOfUnload": 748,
+    "timeOfWait": 4752,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 5,
+      "minute": 46,
+      "second": 0
+    },
+    "delayOfUnload": 562
+  },
+  {
+    "nameOfShip": "Bulker-20",
+    "typeOfCargo": "BULKER",
+    "weight": 1657,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 1,
+      "minute": 53,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 1,
+      "minute": 53,
+      "second": 0
+    },
+    "timeOfUnload": 408,
+    "timeOfWait": 5301,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 18,
+      "minute": 14,
+      "second": 0
+    },
+    "delayOfUnload": 132
+  },
+  {
+    "nameOfShip": "Bulker-14",
+    "typeOfCargo": "BULKER",
+    "weight": 204,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 10,
+      "minute": 28,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 8,
-      "hourOfDay": 22,
-      "minute": 25,
+      "hourOfDay": 10,
+      "minute": 28,
       "second": 0
     },
-    "timeOfUnload": 498,
-    "timeOfWait": 2702,
+    "timeOfUnload": 265,
+    "timeOfWait": 5228,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 19,
+      "dayOfMonth": 18,
+      "hourOfDay": 1,
+      "minute": 36,
+      "second": 0
+    },
+    "delayOfUnload": 231
+  },
+  {
+    "nameOfShip": "Bulker-21",
+    "typeOfCargo": "BULKER",
+    "weight": 6229,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 22,
+      "minute": 14,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 22,
+      "minute": 14,
+      "second": 0
+    },
+    "timeOfUnload": 1235,
+    "timeOfWait": 4753,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 5,
       "minute": 27,
       "second": 0
     },
-    "delayOfUnload": 195
+    "delayOfUnload": 197
   },
   {
-    "nameOfShip": "Container-11",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3428,
+    "nameOfShip": "Bulker-11",
+    "typeOfCargo": "BULKER",
+    "weight": 208,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 14,
-      "minute": 49,
+      "dayOfMonth": 15,
+      "hourOfDay": 9,
+      "minute": 26,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 14,
-      "minute": 49,
+      "dayOfMonth": 10,
+      "hourOfDay": 9,
+      "minute": 26,
       "second": 0
     },
-    "timeOfUnload": 1940,
-    "timeOfWait": 0,
+    "timeOfUnload": 976,
+    "timeOfWait": 5316,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 14,
-      "minute": 49,
+      "dayOfMonth": 19,
+      "hourOfDay": 2,
+      "minute": 2,
       "second": 0
     },
-    "delayOfUnload": 1083
+    "delayOfUnload": 942
   },
   {
-    "nameOfShip": "Container-49",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3208,
+    "nameOfShip": "Bulker-24",
+    "typeOfCargo": "BULKER",
+    "weight": 4714,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 2,
-      "minute": 59,
+      "dayOfMonth": 16,
+      "hourOfDay": 10,
+      "minute": 48,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 2,
-      "minute": 59,
+      "dayOfMonth": 15,
+      "hourOfDay": 10,
+      "minute": 48,
       "second": 0
     },
-    "timeOfUnload": 1788,
-    "timeOfWait": 46,
+    "timeOfUnload": 1771,
+    "timeOfWait": 4770,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 3,
-      "minute": 45,
+      "dayOfMonth": 19,
+      "hourOfDay": 18,
+      "minute": 18,
       "second": 0
     },
     "delayOfUnload": 986
   },
   {
-    "nameOfShip": "Container-8",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1395,
+    "nameOfShip": "Bulker-5",
+    "typeOfCargo": "BULKER",
+    "weight": 4121,
     "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 6,
-      "minute": 20,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 9,
-      "hourOfDay": 6,
-      "minute": 20,
-      "second": 0
-    },
-    "timeOfUnload": 1330,
-    "timeOfWait": 1009,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 23,
-      "minute": 9,
-      "second": 0
-    },
-    "delayOfUnload": 982
-  },
-  {
-    "nameOfShip": "Container-9",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3742,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 8,
-      "minute": 37,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 8,
-      "minute": 37,
-      "second": 0
-    },
-    "timeOfUnload": 1517,
-    "timeOfWait": 762,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 21,
-      "minute": 19,
-      "second": 0
-    },
-    "delayOfUnload": 582
-  },
-  {
-    "nameOfShip": "Container-40",
-    "typeOfCargo": "CONTAINER",
-    "weight": 4414,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 22,
-      "minute": 20,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 22,
-      "minute": 20,
-      "second": 0
-    },
-    "timeOfUnload": 2522,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 22,
-      "minute": 20,
-      "second": 0
-    },
-    "delayOfUnload": 1419
-  },
-  {
-    "nameOfShip": "Container-26",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2030,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 4,
-      "minute": 21,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 4,
-      "minute": 21,
-      "second": 0
-    },
-    "timeOfUnload": 1835,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 4,
-      "minute": 21,
-      "second": 0
-    },
-    "delayOfUnload": 1328
-  },
-  {
-    "nameOfShip": "Container-16",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3590,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 19,
-      "minute": 1,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 19,
-      "minute": 1,
-      "second": 0
-    },
-    "timeOfUnload": 1465,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 19,
-      "minute": 1,
-      "second": 0
-    },
-    "delayOfUnload": 568
-  },
-  {
-    "nameOfShip": "Container-36",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2074,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 21,
-      "minute": 45,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 21,
-      "minute": 45,
-      "second": 0
-    },
-    "timeOfUnload": 1707,
-    "timeOfWait": 1582,
-    "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 18,
-      "hourOfDay": 0,
-      "minute": 7,
-      "second": 0
-    },
-    "delayOfUnload": 1189
-  },
-  {
-    "nameOfShip": "Container-31",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2771,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 4,
-      "minute": 2,
+      "hourOfDay": 3,
+      "minute": 42,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 18,
-      "hourOfDay": 4,
-      "minute": 2,
+      "hourOfDay": 3,
+      "minute": 42,
       "second": 0
     },
-    "timeOfUnload": 1083,
-    "timeOfWait": 924,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 19,
-      "minute": 26,
-      "second": 0
-    },
-    "delayOfUnload": 391
-  },
-  {
-    "nameOfShip": "Container-34",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1110,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 16,
-      "minute": 37,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 16,
-      "minute": 37,
-      "second": 0
-    },
-    "timeOfUnload": 1519,
-    "timeOfWait": 1535,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 18,
-      "minute": 12,
-      "second": 0
-    },
-    "delayOfUnload": 1242
-  },
-  {
-    "nameOfShip": "Container-60",
-    "typeOfCargo": "CONTAINER",
-    "weight": 4542,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 14,
-      "minute": 25,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 14,
-      "minute": 25,
-      "second": 0
-    },
-    "timeOfUnload": 2338,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 14,
-      "minute": 25,
-      "second": 0
-    },
-    "delayOfUnload": 1203
-  },
-  {
-    "nameOfShip": "Container-45",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1955,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 0,
-      "minute": 46,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 0,
-      "minute": 46,
-      "second": 0
-    },
-    "timeOfUnload": 1723,
-    "timeOfWait": 1717,
+    "timeOfUnload": 1115,
+    "timeOfWait": 4087,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 20,
-      "hourOfDay": 5,
-      "minute": 23,
+      "hourOfDay": 23,
+      "minute": 49,
       "second": 0
     },
-    "delayOfUnload": 1235
+    "delayOfUnload": 429
   },
   {
-    "nameOfShip": "Container-37",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1988,
+    "nameOfShip": "Bulker-36",
+    "typeOfCargo": "BULKER",
+    "weight": 6447,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 19,
+      "dayOfMonth": 18,
       "hourOfDay": 4,
-      "minute": 59,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 4,
-      "minute": 59,
-      "second": 0
-    },
-    "timeOfUnload": 558,
-    "timeOfWait": 703,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 16,
-      "minute": 42,
-      "second": 0
-    },
-    "delayOfUnload": 61
-  },
-  {
-    "nameOfShip": "Container-17",
-    "typeOfCargo": "CONTAINER",
-    "weight": 785,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 8,
-      "minute": 21,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 8,
-      "minute": 21,
-      "second": 0
-    },
-    "timeOfUnload": 1333,
-    "timeOfWait": 4253,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 7,
-      "minute": 14,
-      "second": 0
-    },
-    "delayOfUnload": 1137
-  },
-  {
-    "nameOfShip": "Container-54",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1513,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 18,
-      "minute": 35,
+      "minute": 27,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 15,
-      "hourOfDay": 18,
-      "minute": 35,
-      "second": 0
-    },
-    "timeOfUnload": 1754,
-    "timeOfWait": 1093,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 12,
-      "minute": 48,
-      "second": 0
-    },
-    "delayOfUnload": 1376
-  },
-  {
-    "nameOfShip": "Container-39",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3622,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 21,
-      "minute": 21,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 21,
-      "minute": 21,
-      "second": 0
-    },
-    "timeOfUnload": 1687,
-    "timeOfWait": 2033,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 7,
-      "minute": 14,
-      "second": 0
-    },
-    "delayOfUnload": 782
-  },
-  {
-    "nameOfShip": "Container-44",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2244,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 22,
-      "minute": 16,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 22,
-      "minute": 16,
-      "second": 0
-    },
-    "timeOfUnload": 1203,
-    "timeOfWait": 5249,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 13,
-      "minute": 45,
-      "second": 0
-    },
-    "delayOfUnload": 642
-  },
-  {
-    "nameOfShip": "Container-38",
-    "typeOfCargo": "CONTAINER",
-    "weight": 284,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 19,
-      "minute": 17,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 19,
-      "minute": 17,
-      "second": 0
-    },
-    "timeOfUnload": 487,
-    "timeOfWait": 3324,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 2,
-      "minute": 41,
-      "second": 0
-    },
-    "delayOfUnload": 416
-  },
-  {
-    "nameOfShip": "Container-3",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3148,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 14,
-      "minute": 2,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 14,
-      "minute": 2,
-      "second": 0
-    },
-    "timeOfUnload": 1938,
-    "timeOfWait": 2582,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 9,
-      "minute": 4,
-      "second": 0
-    },
-    "delayOfUnload": 1151
-  },
-  {
-    "nameOfShip": "Container-57",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2183,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 15,
-      "minute": 12,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 15,
-      "minute": 12,
-      "second": 0
-    },
-    "timeOfUnload": 1579,
-    "timeOfWait": 256,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 19,
-      "minute": 28,
-      "second": 0
-    },
-    "delayOfUnload": 1034
-  },
-  {
-    "nameOfShip": "Container-61",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3298,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 16,
-      "minute": 41,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 16,
-      "minute": 41,
-      "second": 0
-    },
-    "timeOfUnload": 1572,
-    "timeOfWait": 2639,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 12,
-      "minute": 40,
-      "second": 0
-    },
-    "delayOfUnload": 748
-  },
-  {
-    "nameOfShip": "Container-52",
-    "typeOfCargo": "CONTAINER",
-    "weight": 4315,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 19,
-      "minute": 41,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 19,
-      "minute": 41,
-      "second": 0
-    },
-    "timeOfUnload": 1339,
-    "timeOfWait": 2958,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 20,
-      "minute": 59,
-      "second": 0
-    },
-    "delayOfUnload": 261
-  },
-  {
-    "nameOfShip": "Container-6",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2753,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 21,
-      "minute": 34,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 21,
-      "minute": 34,
-      "second": 0
-    },
-    "timeOfUnload": 1206,
-    "timeOfWait": 4246,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 20,
-      "minute": 20,
-      "second": 0
-    },
-    "delayOfUnload": 518
-  },
-  {
-    "nameOfShip": "Container-35",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3049,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 3,
-      "minute": 1,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 3,
-      "minute": 1,
-      "second": 0
-    },
-    "timeOfUnload": 1761,
-    "timeOfWait": 3335,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 10,
-      "minute": 36,
-      "second": 0
-    },
-    "delayOfUnload": 999
-  },
-  {
-    "nameOfShip": "Container-42",
-    "typeOfCargo": "CONTAINER",
-    "weight": 4541,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 5,
-      "minute": 8,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 5,
-      "minute": 8,
-      "second": 0
-    },
-    "timeOfUnload": 1429,
-    "timeOfWait": 7174,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
       "hourOfDay": 4,
-      "minute": 42,
-      "second": 0
-    },
-    "delayOfUnload": 294
-  },
-  {
-    "nameOfShip": "Container-22",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3143,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 5,
-      "minute": 57,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 5,
-      "minute": 57,
-      "second": 0
-    },
-    "timeOfUnload": 2046,
-    "timeOfWait": 2610,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 1,
       "minute": 27,
       "second": 0
     },
-    "delayOfUnload": 1261
-  },
-  {
-    "nameOfShip": "Container-19",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2728,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 17,
-      "minute": 0,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 17,
-      "minute": 0,
-      "second": 0
-    },
-    "timeOfUnload": 696,
-    "timeOfWait": 3959,
+    "timeOfUnload": 2268,
+    "timeOfWait": 5157,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 10,
-      "minute": 59,
+      "dayOfMonth": 21,
+      "hourOfDay": 18,
+      "minute": 24,
       "second": 0
     },
-    "delayOfUnload": 14
+    "delayOfUnload": 1194
   },
   {
-    "nameOfShip": "Container-20",
-    "typeOfCargo": "CONTAINER",
-    "weight": 369,
+    "nameOfShip": "Bulker-16",
+    "typeOfCargo": "BULKER",
+    "weight": 4002,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 7,
-      "minute": 57,
+      "dayOfMonth": 18,
+      "hourOfDay": 19,
+      "minute": 58,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 30,
-      "hourOfDay": 7,
-      "minute": 57,
+      "dayOfMonth": 13,
+      "hourOfDay": 19,
+      "minute": 58,
       "second": 0
     },
-    "timeOfUnload": 435,
-    "timeOfWait": 3096,
+    "timeOfUnload": 1090,
+    "timeOfWait": 6633,
     "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 11,
-      "minute": 33,
-      "second": 0
-    },
-    "delayOfUnload": 343
-  },
-  {
-    "nameOfShip": "Container-51",
-    "typeOfCargo": "CONTAINER",
-    "weight": 34,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 15,
-      "minute": 3,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 15,
-      "minute": 3,
-      "second": 0
-    },
-    "timeOfUnload": 688,
-    "timeOfWait": 3380,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 23,
-      "minute": 23,
-      "second": 0
-    },
-    "delayOfUnload": 680
-  },
-  {
-    "nameOfShip": "Container-58",
-    "typeOfCargo": "CONTAINER",
-    "weight": 2001,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 16,
-      "minute": 38,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 16,
-      "minute": 38,
-      "second": 0
-    },
-    "timeOfUnload": 1034,
-    "timeOfWait": 3373,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 0,
-      "minute": 51,
-      "second": 0
-    },
-    "delayOfUnload": 534
-  },
-  {
-    "nameOfShip": "Container-10",
-    "typeOfCargo": "CONTAINER",
-    "weight": 4191,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 21,
-      "minute": 13,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 21,
-      "minute": 13,
-      "second": 0
-    },
-    "timeOfUnload": 2196,
-    "timeOfWait": 4016,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 16,
-      "minute": 9,
-      "second": 0
-    },
-    "delayOfUnload": 1149
-  },
-  {
-    "nameOfShip": "Container-59",
-    "typeOfCargo": "CONTAINER",
-    "weight": 4003,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 13,
-      "minute": 9,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 13,
-      "minute": 9,
-      "second": 0
-    },
-    "timeOfUnload": 1102,
-    "timeOfWait": 4878,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 22,
-      "minute": 27,
-      "second": 0
-    },
-    "delayOfUnload": 102
-  },
-  {
-    "nameOfShip": "Container-4",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3652,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 13,
-      "minute": 39,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 13,
-      "minute": 39,
-      "second": 0
-    },
-    "timeOfUnload": 2104,
-    "timeOfWait": 2919,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 14,
-      "minute": 18,
-      "second": 0
-    },
-    "delayOfUnload": 1191
-  },
-  {
-    "nameOfShip": "Container-24",
-    "typeOfCargo": "CONTAINER",
-    "weight": 1994,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 23,
-      "minute": 17,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 25,
-      "hourOfDay": 23,
-      "minute": 17,
-      "second": 0
-    },
-    "timeOfUnload": 1492,
-    "timeOfWait": 3932,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 30,
-      "hourOfDay": 16,
-      "minute": 49,
-      "second": 0
-    },
-    "delayOfUnload": 994
-  },
-  {
-    "nameOfShip": "Container-21",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3863,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 12,
-      "minute": 48,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 23,
-      "hourOfDay": 12,
-      "minute": 48,
+      "hourOfDay": 10,
+      "minute": 31,
       "second": 0
     },
-    "timeOfUnload": 1662,
-    "timeOfWait": 2058,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 23,
-      "minute": 6,
-      "second": 0
-    },
-    "delayOfUnload": 697
+    "delayOfUnload": 423
   },
   {
-    "nameOfShip": "Container-1",
-    "typeOfCargo": "CONTAINER",
-    "weight": 35,
+    "nameOfShip": "Bulker-19",
+    "typeOfCargo": "BULKER",
+    "weight": 4575,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 1,
-      "minute": 56,
+      "dayOfMonth": 19,
+      "hourOfDay": 21,
+      "minute": 58,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 30,
-      "hourOfDay": 1,
-      "minute": 56,
+      "dayOfMonth": 13,
+      "hourOfDay": 21,
+      "minute": 58,
       "second": 0
     },
-    "timeOfUnload": 453,
-    "timeOfWait": 3825,
+    "timeOfUnload": 2116,
+    "timeOfWait": 6024,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 1,
-      "hourOfDay": 17,
-      "minute": 41,
-      "second": 0
-    },
-    "delayOfUnload": 445
-  },
-  {
-    "nameOfShip": "Container-29",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3542,
-    "timeOfArrival": {
-      "year": 2021,
       "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 5,
-      "minute": 50,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 5,
-      "minute": 50,
-      "second": 0
-    },
-    "timeOfUnload": 2142,
-    "timeOfWait": 2698,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 1,
+      "dayOfMonth": 24,
       "hourOfDay": 2,
-      "minute": 48,
-      "second": 0
-    },
-    "delayOfUnload": 1257
-  },
-  {
-    "nameOfShip": "Container-41",
-    "typeOfCargo": "CONTAINER",
-    "weight": 3782,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 8,
-      "minute": 32,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 8,
-      "minute": 32,
-      "second": 0
-    },
-    "timeOfUnload": 2277,
-    "timeOfWait": 3939,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 2,
-      "hourOfDay": 2,
-      "minute": 11,
-      "second": 0
-    },
-    "delayOfUnload": 1332
-  }
-]"Container Fine: 56800 Amount Of Cranes: 3 Amount Of Ships: 53 Max time of wait 4:23:34 Average time Of wait: 1:9:20 Max time of delay unload 0:23:39 Average time of delay of unload: 0:13:20"
-[
-  {
-    "nameOfShip": "Tanker-32",
-    "typeOfCargo": "TANKER",
-    "weight": 9842,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 2,
-      "hourOfDay": 5,
-      "minute": 25,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 9,
-      "hourOfDay": 5,
-      "minute": 25,
-      "second": 0
-    },
-    "timeOfUnload": 2398,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 2,
-      "hourOfDay": 5,
-      "minute": 25,
-      "second": 0
-    },
-    "delayOfUnload": 430
-  },
-  {
-    "nameOfShip": "Tanker-38",
-    "typeOfCargo": "TANKER",
-    "weight": 625,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 4,
-      "hourOfDay": 11,
-      "minute": 8,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 11,
-      "minute": 8,
-      "second": 0
-    },
-    "timeOfUnload": 1468,
-    "timeOfWait": 0,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 4,
-      "hourOfDay": 11,
-      "minute": 8,
-      "second": 0
-    },
-    "delayOfUnload": 1343
-  },
-  {
-    "nameOfShip": "Tanker-30",
-    "typeOfCargo": "TANKER",
-    "weight": 1171,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 5,
-      "hourOfDay": 6,
-      "minute": 13,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 3,
-      "hourOfDay": 6,
-      "minute": 13,
-      "second": 0
-    },
-    "timeOfUnload": 1133,
-    "timeOfWait": 323,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 5,
-      "hourOfDay": 11,
-      "minute": 36,
-      "second": 0
-    },
-    "delayOfUnload": 899
-  },
-  {
-    "nameOfShip": "Tanker-7",
-    "typeOfCargo": "TANKER",
-    "weight": 762,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 5,
-      "hourOfDay": 6,
-      "minute": 43,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 3,
-      "hourOfDay": 6,
-      "minute": 43,
-      "second": 0
-    },
-    "timeOfUnload": 199,
-    "timeOfWait": 1719,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 6,
-      "hourOfDay": 11,
       "minute": 22,
       "second": 0
     },
-    "delayOfUnload": 47
+    "delayOfUnload": 1354
   },
   {
-    "nameOfShip": "Tanker-8",
-    "typeOfCargo": "TANKER",
-    "weight": 3659,
+    "nameOfShip": "Bulker-23",
+    "typeOfCargo": "BULKER",
+    "weight": 7490,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 6,
-      "hourOfDay": 22,
-      "minute": 32,
+      "dayOfMonth": 20,
+      "hourOfDay": 9,
+      "minute": 15,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 22,
-      "minute": 32,
+      "dayOfMonth": 26,
+      "hourOfDay": 9,
+      "minute": 15,
       "second": 0
     },
-    "timeOfUnload": 1556,
-    "timeOfWait": 0,
+    "timeOfUnload": 1976,
+    "timeOfWait": 7463,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 6,
-      "hourOfDay": 22,
-      "minute": 32,
+      "dayOfMonth": 25,
+      "hourOfDay": 13,
+      "minute": 38,
       "second": 0
     },
-    "delayOfUnload": 825
+    "delayOfUnload": 728
   },
   {
-    "nameOfShip": "Tanker-35",
-    "typeOfCargo": "TANKER",
-    "weight": 8590,
+    "nameOfShip": "Bulker-3",
+    "typeOfCargo": "BULKER",
+    "weight": 4825,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 7,
-      "hourOfDay": 8,
-      "minute": 57,
+      "dayOfMonth": 20,
+      "hourOfDay": 21,
+      "minute": 8,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 2,
-      "hourOfDay": 8,
-      "minute": 57,
+      "dayOfMonth": 26,
+      "hourOfDay": 21,
+      "minute": 8,
       "second": 0
     },
-    "timeOfUnload": 1723,
-    "timeOfWait": 931,
+    "timeOfUnload": 1145,
+    "timeOfWait": 9452,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 0,
-      "minute": 28,
+      "dayOfMonth": 27,
+      "hourOfDay": 10,
+      "minute": 40,
+      "second": 0
+    },
+    "delayOfUnload": 341
+  },
+  {
+    "nameOfShip": "Bulker-26",
+    "typeOfCargo": "BULKER",
+    "weight": 7551,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 3,
+      "minute": 41,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 3,
+      "minute": 41,
+      "second": 0
+    },
+    "timeOfUnload": 1458,
+    "timeOfWait": 10348,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 8,
+      "minute": 9,
+      "second": 0
+    },
+    "delayOfUnload": 200
+  },
+  {
+    "nameOfShip": "Bulker-12",
+    "typeOfCargo": "BULKER",
+    "weight": 7265,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 14,
+      "minute": 15,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 14,
+      "minute": 15,
+      "second": 0
+    },
+    "timeOfUnload": 1326,
+    "timeOfWait": 11146,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 8,
+      "minute": 1,
+      "second": 0
+    },
+    "delayOfUnload": 116
+  },
+  {
+    "nameOfShip": "Bulker-31",
+    "typeOfCargo": "BULKER",
+    "weight": 8169,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 13,
+      "minute": 48,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 13,
+      "minute": 48,
+      "second": 0
+    },
+    "timeOfUnload": 1366,
+    "timeOfWait": 10496,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 20,
+      "minute": 44,
       "second": 0
     },
     "delayOfUnload": 5
   },
   {
-    "nameOfShip": "Tanker-1",
-    "typeOfCargo": "TANKER",
-    "weight": 9448,
+    "nameOfShip": "Bulker-9",
+    "typeOfCargo": "BULKER",
+    "weight": 693,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 2,
-      "minute": 49,
+      "dayOfMonth": 23,
+      "hourOfDay": 16,
+      "minute": 28,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 2,
-      "minute": 49,
+      "dayOfMonth": 18,
+      "hourOfDay": 16,
+      "minute": 28,
       "second": 0
     },
-    "timeOfUnload": 2288,
-    "timeOfWait": 1582,
+    "timeOfUnload": 1160,
+    "timeOfWait": 9981,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 9,
+      "dayOfMonth": 30,
+      "hourOfDay": 14,
+      "minute": 49,
+      "second": 0
+    },
+    "delayOfUnload": 1045
+  },
+  {
+    "nameOfShip": "Bulker-10",
+    "typeOfCargo": "BULKER",
+    "weight": 9593,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 19,
+      "minute": 53,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 19,
+      "minute": 53,
+      "second": 0
+    },
+    "timeOfUnload": 2045,
+    "timeOfWait": 9496,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 1,
+      "hourOfDay": 10,
+      "minute": 9,
+      "second": 0
+    },
+    "delayOfUnload": 447
+  },
+  {
+    "nameOfShip": "Bulker-28",
+    "typeOfCargo": "BULKER",
+    "weight": 2182,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 1,
+      "minute": 56,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 1,
+      "minute": 56,
+      "second": 0
+    },
+    "timeOfUnload": 818,
+    "timeOfWait": 11178,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 2,
+      "hourOfDay": 20,
+      "minute": 14,
+      "second": 0
+    },
+    "delayOfUnload": 455
+  },
+  {
+    "nameOfShip": "Bulker-30",
+    "typeOfCargo": "BULKER",
+    "weight": 7475,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 9,
+      "minute": 42,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 9,
+      "minute": 42,
+      "second": 0
+    },
+    "timeOfUnload": 1869,
+    "timeOfWait": 12746,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 4,
+      "hourOfDay": 6,
+      "minute": 8,
+      "second": 0
+    },
+    "delayOfUnload": 624
+  },
+  {
+    "nameOfShip": "Bulker-34",
+    "typeOfCargo": "BULKER",
+    "weight": 8513,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 4,
+      "minute": 0,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 4,
+      "minute": 0,
+      "second": 0
+    },
+    "timeOfUnload": 2639,
+    "timeOfWait": 12301,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 4,
+      "hourOfDay": 17,
+      "minute": 1,
+      "second": 0
+    },
+    "delayOfUnload": 1221
+  },
+  {
+    "nameOfShip": "Bulker-1",
+    "typeOfCargo": "BULKER",
+    "weight": 2928,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 3,
+      "minute": 30,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 3,
+      "minute": 30,
+      "second": 0
+    },
+    "timeOfUnload": 988,
+    "timeOfWait": 14759,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 7,
+      "hourOfDay": 9,
+      "minute": 29,
+      "second": 0
+    },
+    "delayOfUnload": 500
+  },
+  {
+    "nameOfShip": "Bulker-4",
+    "typeOfCargo": "BULKER",
+    "weight": 6739,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 1,
+      "minute": 58,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 1,
+      "minute": 58,
+      "second": 0
+    },
+    "timeOfUnload": 2075,
+    "timeOfWait": 13170,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 7,
       "hourOfDay": 5,
+      "minute": 28,
+      "second": 0
+    },
+    "delayOfUnload": 952
+  },
+  {
+    "nameOfShip": "Bulker-22",
+    "typeOfCargo": "BULKER",
+    "weight": 8403,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 4,
+      "minute": 0,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 4,
+      "minute": 0,
+      "second": 0
+    },
+    "timeOfUnload": 2168,
+    "timeOfWait": 17076,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 10,
+      "hourOfDay": 0,
+      "minute": 36,
+      "second": 0
+    },
+    "delayOfUnload": 768
+  },
+  {
+    "nameOfShip": "Bulker-17",
+    "typeOfCargo": "BULKER",
+    "weight": 8863,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 22,
+      "minute": 21,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 22,
+      "minute": 21,
+      "second": 0
+    },
+    "timeOfUnload": 2276,
+    "timeOfWait": 16190,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 10,
+      "hourOfDay": 4,
       "minute": 11,
       "second": 0
     },
-    "delayOfUnload": 399
+    "delayOfUnload": 799
   },
   {
-    "nameOfShip": "Tanker-41",
-    "typeOfCargo": "TANKER",
-    "weight": 3432,
+    "nameOfShip": "Bulker-27",
+    "typeOfCargo": "BULKER",
+    "weight": 3217,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 10,
-      "minute": 20,
+      "dayOfMonth": 29,
+      "hourOfDay": 5,
+      "minute": 38,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 10,
-      "minute": 20,
+      "dayOfMonth": 28,
+      "hourOfDay": 5,
+      "minute": 38,
       "second": 0
     },
-    "timeOfUnload": 1492,
-    "timeOfWait": 3619,
+    "timeOfUnload": 930,
+    "timeOfWait": 20612,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 3,
-      "dayOfMonth": 10,
-      "hourOfDay": 22,
-      "minute": 39,
+      "month": 4,
+      "dayOfMonth": 13,
+      "hourOfDay": 13,
+      "minute": 10,
       "second": 0
     },
-    "delayOfUnload": 806
-  },
+    "delayOfUnload": 394
+  }
+]"Bulker Fine: 46900 Amount Of Cranes: 2 Amount Of Ships: 33 Max time of wait 14:7:32 Average time Of wait: 5:9:35 Max time of delay unload 0:23:15 Average time of delay of unload: 0:10:7"
+[
   {
-    "nameOfShip": "Tanker-43",
-    "typeOfCargo": "TANKER",
-    "weight": 7700,
+    "nameOfShip": "Container-32",
+    "typeOfCargo": "CONTAINER",
+    "weight": 4427,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 8,
-      "hourOfDay": 10,
-      "minute": 20,
+      "dayOfMonth": 1,
+      "hourOfDay": 6,
+      "minute": 28,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 7,
-      "hourOfDay": 10,
-      "minute": 20,
+      "hourOfDay": 6,
+      "minute": 28,
       "second": 0
     },
-    "timeOfUnload": 2300,
-    "timeOfWait": 6603,
+    "timeOfUnload": 2162,
+    "timeOfWait": 0,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 0,
-      "minute": 23,
+      "dayOfMonth": 1,
+      "hourOfDay": 6,
+      "minute": 28,
       "second": 0
     },
-    "delayOfUnload": 760
+    "delayOfUnload": 1056
   },
   {
-    "nameOfShip": "Tanker-31",
-    "typeOfCargo": "TANKER",
-    "weight": 878,
+    "nameOfShip": "Container-9",
+    "typeOfCargo": "CONTAINER",
+    "weight": 1756,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 10,
+      "dayOfMonth": 1,
+      "hourOfDay": 12,
+      "minute": 21,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 6,
+      "hourOfDay": 12,
+      "minute": 21,
+      "second": 0
+    },
+    "timeOfUnload": 1050,
+    "timeOfWait": 1809,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 18,
+      "minute": 30,
+      "second": 0
+    },
+    "delayOfUnload": 611
+  },
+  {
+    "nameOfShip": "Container-10",
+    "typeOfCargo": "CONTAINER",
+    "weight": 892,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 3,
+      "minute": 46,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 3,
+      "minute": 46,
+      "second": 0
+    },
+    "timeOfUnload": 1622,
+    "timeOfWait": 2818,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 2,
+      "minute": 44,
+      "second": 0
+    },
+    "delayOfUnload": 1399
+  },
+  {
+    "nameOfShip": "Container-29",
+    "typeOfCargo": "CONTAINER",
+    "weight": 817,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 3,
       "hourOfDay": 7,
-      "minute": 39,
+      "minute": 18,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 11,
+      "dayOfMonth": 2,
       "hourOfDay": 7,
-      "minute": 39,
+      "minute": 18,
       "second": 0
     },
-    "timeOfUnload": 377,
-    "timeOfWait": 4492,
+    "timeOfUnload": 1201,
+    "timeOfWait": 1904,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 10,
-      "minute": 31,
+      "dayOfMonth": 4,
+      "hourOfDay": 15,
+      "minute": 2,
       "second": 0
     },
-    "delayOfUnload": 202
+    "delayOfUnload": 997
   },
   {
-    "nameOfShip": "Tanker-33",
-    "typeOfCargo": "TANKER",
-    "weight": 8829,
+    "nameOfShip": "Container-14",
+    "typeOfCargo": "CONTAINER",
+    "weight": 1419,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 0,
-      "minute": 47,
+      "dayOfMonth": 4,
+      "hourOfDay": 20,
+      "minute": 26,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 0,
-      "minute": 47,
+      "dayOfMonth": 1,
+      "hourOfDay": 20,
+      "minute": 26,
       "second": 0
     },
-    "timeOfUnload": 2880,
-    "timeOfWait": 3841,
+    "timeOfUnload": 1349,
+    "timeOfWait": 877,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 13,
-      "hourOfDay": 16,
-      "minute": 48,
+      "dayOfMonth": 5,
+      "hourOfDay": 11,
+      "minute": 3,
       "second": 0
     },
-    "delayOfUnload": 1115
+    "delayOfUnload": 995
   },
   {
-    "nameOfShip": "Tanker-39",
-    "typeOfCargo": "TANKER",
-    "weight": 4659,
+    "nameOfShip": "Container-20",
+    "typeOfCargo": "CONTAINER",
+    "weight": 2072,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 13,
-      "minute": 23,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 13,
-      "minute": 23,
-      "second": 0
-    },
-    "timeOfUnload": 1662,
-    "timeOfWait": 5965,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 15,
-      "hourOfDay": 16,
-      "minute": 48,
-      "second": 0
-    },
-    "delayOfUnload": 731
-  },
-  {
-    "nameOfShip": "Tanker-17",
-    "typeOfCargo": "TANKER",
-    "weight": 1542,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 17,
-      "minute": 23,
+      "dayOfMonth": 5,
+      "hourOfDay": 15,
+      "minute": 46,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 5,
-      "hourOfDay": 17,
-      "minute": 23,
+      "hourOfDay": 15,
+      "minute": 46,
       "second": 0
     },
-    "timeOfUnload": 1582,
-    "timeOfWait": 8809,
+    "timeOfUnload": 1842,
+    "timeOfWait": 1066,
     "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 20,
-      "minute": 12,
-      "second": 0
-    },
-    "delayOfUnload": 1274
-  },
-  {
-    "nameOfShip": "Tanker-42",
-    "typeOfCargo": "TANKER",
-    "weight": 7052,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 7,
-      "minute": 10,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 6,
-      "hourOfDay": 7,
-      "minute": 10,
-      "second": 0
-    },
-    "timeOfUnload": 2300,
-    "timeOfWait": 9199,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 16,
-      "minute": 29,
-      "second": 0
-    },
-    "delayOfUnload": 890
-  },
-  {
-    "nameOfShip": "Tanker-2",
-    "typeOfCargo": "TANKER",
-    "weight": 2229,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 4,
-      "minute": 29,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 4,
-      "minute": 29,
-      "second": 0
-    },
-    "timeOfUnload": 692,
-    "timeOfWait": 7723,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 13,
-      "minute": 12,
-      "second": 0
-    },
-    "delayOfUnload": 247
-  },
-  {
-    "nameOfShip": "Tanker-28",
-    "typeOfCargo": "TANKER",
-    "weight": 5162,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 18,
-      "minute": 2,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 18,
-      "minute": 2,
-      "second": 0
-    },
-    "timeOfUnload": 2082,
-    "timeOfWait": 7602,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 0,
-      "minute": 44,
-      "second": 0
-    },
-    "delayOfUnload": 1050
-  },
-  {
-    "nameOfShip": "Tanker-12",
-    "typeOfCargo": "TANKER",
-    "weight": 1566,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 19,
-      "minute": 1,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 11,
-      "hourOfDay": 19,
-      "minute": 1,
-      "second": 0
-    },
-    "timeOfUnload": 1686,
-    "timeOfWait": 11648,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 21,
-      "minute": 9,
-      "second": 0
-    },
-    "delayOfUnload": 1373
-  },
-  {
-    "nameOfShip": "Tanker-11",
-    "typeOfCargo": "TANKER",
-    "weight": 6624,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 15,
-      "hourOfDay": 2,
-      "minute": 21,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 2,
-      "minute": 21,
-      "second": 0
-    },
-    "timeOfUnload": 2126,
-    "timeOfWait": 10871,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 22,
-      "hourOfDay": 15,
+      "hourOfDay": 9,
       "minute": 32,
       "second": 0
     },
-    "delayOfUnload": 802
+    "delayOfUnload": 1324
   },
   {
-    "nameOfShip": "Tanker-25",
-    "typeOfCargo": "TANKER",
-    "weight": 6910,
+    "nameOfShip": "Container-21",
+    "typeOfCargo": "CONTAINER",
+    "weight": 394,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 2,
-      "minute": 37,
+      "dayOfMonth": 6,
+      "hourOfDay": 6,
+      "minute": 1,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 11,
-      "hourOfDay": 2,
-      "minute": 37,
+      "hourOfDay": 6,
+      "minute": 1,
       "second": 0
     },
-    "timeOfUnload": 2053,
-    "timeOfWait": 12211,
+    "timeOfUnload": 1027,
+    "timeOfWait": 2053,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 14,
-      "minute": 8,
-      "second": 0
-    },
-    "delayOfUnload": 671
-  },
-  {
-    "nameOfShip": "Tanker-44",
-    "typeOfCargo": "TANKER",
-    "weight": 3049,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 16,
-      "hourOfDay": 11,
-      "minute": 30,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 12,
-      "hourOfDay": 11,
-      "minute": 30,
-      "second": 0
-    },
-    "timeOfUnload": 853,
-    "timeOfWait": 14341,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 10,
-      "minute": 31,
-      "second": 0
-    },
-    "delayOfUnload": 244
-  },
-  {
-    "nameOfShip": "Tanker-10",
-    "typeOfCargo": "TANKER",
-    "weight": 9410,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 17,
-      "hourOfDay": 18,
-      "minute": 55,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 20,
-      "hourOfDay": 18,
-      "minute": 55,
-      "second": 0
-    },
-    "timeOfUnload": 2811,
-    "timeOfWait": 12334,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 26,
-      "hourOfDay": 8,
-      "minute": 29,
+      "dayOfMonth": 7,
+      "hourOfDay": 16,
+      "minute": 14,
       "second": 0
     },
     "delayOfUnload": 929
   },
   {
-    "nameOfShip": "Tanker-4",
-    "typeOfCargo": "TANKER",
-    "weight": 6640,
+    "nameOfShip": "Container-23",
+    "typeOfCargo": "CONTAINER",
+    "weight": 4706,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 11,
-      "minute": 52,
+      "dayOfMonth": 6,
+      "hourOfDay": 20,
+      "minute": 2,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 14,
-      "hourOfDay": 11,
-      "minute": 52,
+      "dayOfMonth": 8,
+      "hourOfDay": 20,
+      "minute": 2,
       "second": 0
     },
-    "timeOfUnload": 1625,
-    "timeOfWait": 13823,
+    "timeOfUnload": 2524,
+    "timeOfWait": 2385,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 2,
-      "minute": 15,
+      "dayOfMonth": 8,
+      "hourOfDay": 11,
+      "minute": 47,
       "second": 0
     },
-    "delayOfUnload": 297
+    "delayOfUnload": 1348
   },
   {
-    "nameOfShip": "Tanker-3",
-    "typeOfCargo": "TANKER",
-    "weight": 1652,
+    "nameOfShip": "Container-6",
+    "typeOfCargo": "CONTAINER",
+    "weight": 2585,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 18,
-      "hourOfDay": 12,
-      "minute": 13,
+      "dayOfMonth": 9,
+      "hourOfDay": 13,
+      "minute": 44,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 13,
+      "minute": 44,
+      "second": 0
+    },
+    "timeOfUnload": 796,
+    "timeOfWait": 821,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 3,
+      "minute": 25,
+      "second": 0
+    },
+    "delayOfUnload": 150
+  },
+  {
+    "nameOfShip": "Container-27",
+    "typeOfCargo": "CONTAINER",
+    "weight": 2744,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 20,
+      "minute": 28,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 15,
-      "hourOfDay": 12,
-      "minute": 13,
+      "hourOfDay": 20,
+      "minute": 28,
       "second": 0
     },
-    "timeOfUnload": 1426,
-    "timeOfWait": 17505,
+    "timeOfUnload": 1002,
+    "timeOfWait": 1213,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 30,
-      "hourOfDay": 15,
-      "minute": 58,
+      "dayOfMonth": 10,
+      "hourOfDay": 16,
+      "minute": 41,
       "second": 0
     },
-    "delayOfUnload": 1096
+    "delayOfUnload": 316
   },
   {
-    "nameOfShip": "Tanker-15",
-    "typeOfCargo": "TANKER",
-    "weight": 5217,
+    "nameOfShip": "Container-8",
+    "typeOfCargo": "CONTAINER",
+    "weight": 3019,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 19,
-      "hourOfDay": 7,
-      "minute": 58,
+      "dayOfMonth": 10,
+      "hourOfDay": 20,
+      "minute": 59,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 6,
+      "hourOfDay": 20,
+      "minute": 59,
+      "second": 0
+    },
+    "timeOfUnload": 863,
+    "timeOfWait": 744,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 9,
+      "minute": 23,
+      "second": 0
+    },
+    "delayOfUnload": 109
+  },
+  {
+    "nameOfShip": "Container-28",
+    "typeOfCargo": "CONTAINER",
+    "weight": 3906,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 21,
+      "minute": 29,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 21,
+      "minute": 29,
+      "second": 0
+    },
+    "timeOfUnload": 1489,
+    "timeOfWait": 1577,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 23,
+      "minute": 46,
+      "second": 0
+    },
+    "delayOfUnload": 513
+  },
+  {
+    "nameOfShip": "Container-16",
+    "typeOfCargo": "CONTAINER",
+    "weight": 2887,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 9,
+      "minute": 16,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 9,
+      "minute": 16,
+      "second": 0
+    },
+    "timeOfUnload": 2144,
+    "timeOfWait": 2485,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 2,
+      "minute": 41,
+      "second": 0
+    },
+    "delayOfUnload": 1423
+  },
+  {
+    "nameOfShip": "Container-34",
+    "typeOfCargo": "CONTAINER",
+    "weight": 4196,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 11,
+      "minute": 50,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 11,
+      "minute": 50,
+      "second": 0
+    },
+    "timeOfUnload": 1075,
+    "timeOfWait": 4977,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 22,
+      "minute": 47,
+      "second": 0
+    },
+    "delayOfUnload": 26
+  },
+  {
+    "nameOfShip": "Container-33",
+    "typeOfCargo": "CONTAINER",
+    "weight": 4985,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 12,
+      "hourOfDay": 0,
+      "minute": 48,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 17,
-      "hourOfDay": 7,
+      "hourOfDay": 0,
+      "minute": 48,
+      "second": 0
+    },
+    "timeOfUnload": 2630,
+    "timeOfWait": 5984,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 4,
+      "minute": 32,
+      "second": 0
+    },
+    "delayOfUnload": 1384
+  },
+  {
+    "nameOfShip": "Container-1",
+    "typeOfCargo": "CONTAINER",
+    "weight": 3450,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 8,
+      "minute": 6,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 8,
+      "minute": 6,
+      "second": 0
+    },
+    "timeOfUnload": 1311,
+    "timeOfWait": 5398,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 2,
+      "minute": 4,
+      "second": 0
+    },
+    "delayOfUnload": 449
+  },
+  {
+    "nameOfShip": "Container-19",
+    "typeOfCargo": "CONTAINER",
+    "weight": 4990,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 14,
+      "minute": 53,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 14,
+      "minute": 53,
+      "second": 0
+    },
+    "timeOfUnload": 2120,
+    "timeOfWait": 7985,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 3,
       "minute": 58,
       "second": 0
     },
-    "timeOfUnload": 2022,
-    "timeOfWait": 16087,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 30,
-      "hourOfDay": 12,
-      "minute": 5,
-      "second": 0
-    },
-    "delayOfUnload": 979
+    "delayOfUnload": 873
   },
   {
-    "nameOfShip": "Tanker-21",
-    "typeOfCargo": "TANKER",
-    "weight": 4858,
+    "nameOfShip": "Container-5",
+    "typeOfCargo": "CONTAINER",
+    "weight": 1010,
     "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 18,
+      "minute": 6,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 19,
-      "hourOfDay": 20,
-      "minute": 50,
+      "hourOfDay": 18,
+      "minute": 6,
       "second": 0
     },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 20,
-      "minute": 50,
-      "second": 0
-    },
-    "timeOfUnload": 1067,
-    "timeOfWait": 18465,
+    "timeOfUnload": 1348,
+    "timeOfWait": 6789,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 2,
-      "hourOfDay": 16,
-      "minute": 35,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 11,
+      "minute": 15,
       "second": 0
     },
-    "delayOfUnload": 96
+    "delayOfUnload": 1096
   },
   {
-    "nameOfShip": "Tanker-22",
-    "typeOfCargo": "TANKER",
-    "weight": 2848,
+    "nameOfShip": "Container-25",
+    "typeOfCargo": "CONTAINER",
+    "weight": 3015,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 5,
-      "minute": 4,
+      "dayOfMonth": 16,
+      "hourOfDay": 6,
+      "minute": 59,
       "second": 0
     },
     "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 6,
+      "minute": 59,
+      "second": 0
+    },
+    "timeOfUnload": 933,
+    "timeOfWait": 5924,
+    "timeOfUnloadStart": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 20,
-      "hourOfDay": 5,
-      "minute": 4,
+      "hourOfDay": 9,
+      "minute": 43,
       "second": 0
     },
-    "timeOfUnload": 1172,
-    "timeOfWait": 16051,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 2,
-      "hourOfDay": 8,
-      "minute": 35,
-      "second": 0
-    },
-    "delayOfUnload": 603
+    "delayOfUnload": 180
   },
   {
-    "nameOfShip": "Tanker-16",
-    "typeOfCargo": "TANKER",
-    "weight": 2434,
+    "nameOfShip": "Container-31",
+    "typeOfCargo": "CONTAINER",
+    "weight": 391,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 7,
-      "minute": 31,
+      "dayOfMonth": 16,
+      "hourOfDay": 20,
+      "minute": 42,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 30,
-      "hourOfDay": 7,
-      "minute": 31,
+      "dayOfMonth": 10,
+      "hourOfDay": 20,
+      "minute": 42,
       "second": 0
     },
-    "timeOfUnload": 1228,
-    "timeOfWait": 14196,
+    "timeOfUnload": 1356,
+    "timeOfWait": 6034,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 3,
-      "hourOfDay": 4,
-      "minute": 7,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 1,
+      "minute": 16,
       "second": 0
     },
-    "delayOfUnload": 742
+    "delayOfUnload": 1259
   },
   {
-    "nameOfShip": "Tanker-36",
-    "typeOfCargo": "TANKER",
-    "weight": 9625,
+    "nameOfShip": "Container-22",
+    "typeOfCargo": "CONTAINER",
+    "weight": 1472,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 23,
-      "hourOfDay": 20,
-      "minute": 47,
+      "dayOfMonth": 17,
+      "hourOfDay": 3,
+      "minute": 49,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 21,
-      "hourOfDay": 20,
-      "minute": 47,
+      "hourOfDay": 3,
+      "minute": 49,
       "second": 0
     },
-    "timeOfUnload": 3329,
-    "timeOfWait": 14628,
+    "timeOfUnload": 389,
+    "timeOfWait": 7892,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 4,
-      "hourOfDay": 0,
-      "minute": 35,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 15,
+      "minute": 21,
       "second": 0
     },
-    "delayOfUnload": 1404
+    "delayOfUnload": 21
   },
   {
-    "nameOfShip": "Tanker-26",
-    "typeOfCargo": "TANKER",
-    "weight": 6389,
+    "nameOfShip": "Container-15",
+    "typeOfCargo": "CONTAINER",
+    "weight": 184,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 1,
-      "minute": 12,
-      "second": 0
-    },
-    "scheduledTimeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 21,
-      "hourOfDay": 1,
-      "minute": 12,
-      "second": 0
-    },
-    "timeOfUnload": 2590,
-    "timeOfWait": 17859,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 6,
-      "hourOfDay": 10,
-      "minute": 51,
-      "second": 0
-    },
-    "delayOfUnload": 1313
-  },
-  {
-    "nameOfShip": "Tanker-40",
-    "typeOfCargo": "TANKER",
-    "weight": 689,
-    "timeOfArrival": {
-      "year": 2021,
-      "month": 3,
-      "dayOfMonth": 24,
-      "hourOfDay": 4,
-      "minute": 38,
+      "dayOfMonth": 17,
+      "hourOfDay": 9,
+      "minute": 59,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 19,
-      "hourOfDay": 4,
-      "minute": 38,
+      "hourOfDay": 9,
+      "minute": 59,
       "second": 0
     },
-    "timeOfUnload": 1099,
-    "timeOfWait": 22934,
+    "timeOfUnload": 599,
+    "timeOfWait": 6982,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 10,
-      "hourOfDay": 2,
-      "minute": 52,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 6,
+      "minute": 21,
       "second": 0
     },
-    "delayOfUnload": 962
+    "delayOfUnload": 553
   },
   {
-    "nameOfShip": "Tanker-18",
-    "typeOfCargo": "TANKER",
-    "weight": 255,
+    "nameOfShip": "Container-3",
+    "typeOfCargo": "CONTAINER",
+    "weight": 2565,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 27,
-      "hourOfDay": 2,
-      "minute": 48,
+      "dayOfMonth": 18,
+      "hourOfDay": 9,
+      "minute": 31,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 2,
-      "minute": 48,
+      "dayOfMonth": 17,
+      "hourOfDay": 9,
+      "minute": 31,
       "second": 0
     },
-    "timeOfUnload": 1016,
-    "timeOfWait": 16965,
+    "timeOfUnload": 1121,
+    "timeOfWait": 6169,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 8,
-      "hourOfDay": 21,
-      "minute": 33,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 16,
+      "minute": 20,
       "second": 0
     },
-    "delayOfUnload": 965
+    "delayOfUnload": 480
   },
   {
-    "nameOfShip": "Tanker-5",
-    "typeOfCargo": "TANKER",
-    "weight": 8785,
+    "nameOfShip": "Container-24",
+    "typeOfCargo": "CONTAINER",
+    "weight": 4118,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 22,
+      "minute": 10,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 22,
+      "minute": 10,
+      "second": 0
+    },
+    "timeOfUnload": 1200,
+    "timeOfWait": 6531,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 23,
+      "hourOfDay": 11,
+      "minute": 1,
+      "second": 0
+    },
+    "delayOfUnload": 171
+  },
+  {
+    "nameOfShip": "Container-11",
+    "typeOfCargo": "CONTAINER",
+    "weight": 1364,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 8,
+      "minute": 15,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 8,
+      "minute": 15,
+      "second": 0
+    },
+    "timeOfUnload": 1259,
+    "timeOfWait": 4246,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 7,
+      "minute": 1,
+      "second": 0
+    },
+    "delayOfUnload": 918
+  },
+  {
+    "nameOfShip": "Container-7",
+    "typeOfCargo": "CONTAINER",
+    "weight": 1860,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 23,
+      "hourOfDay": 4,
+      "minute": 47,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 4,
+      "minute": 47,
+      "second": 0
+    },
+    "timeOfUnload": 973,
+    "timeOfWait": 2833,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 4,
+      "minute": 0,
+      "second": 0
+    },
+    "delayOfUnload": 508
+  },
+  {
+    "nameOfShip": "Container-2",
+    "typeOfCargo": "CONTAINER",
+    "weight": 1200,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 27,
-      "hourOfDay": 7,
-      "minute": 8,
+      "hourOfDay": 0,
+      "minute": 33,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 25,
-      "hourOfDay": 7,
-      "minute": 8,
+      "hourOfDay": 0,
+      "minute": 33,
       "second": 0
     },
-    "timeOfUnload": 1885,
-    "timeOfWait": 17721,
+    "timeOfUnload": 1728,
+    "timeOfWait": 0,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 9,
-      "hourOfDay": 14,
-      "minute": 29,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 0,
+      "minute": 33,
       "second": 0
     },
-    "delayOfUnload": 128
+    "delayOfUnload": 1428
   },
   {
-    "nameOfShip": "Tanker-34",
-    "typeOfCargo": "TANKER",
-    "weight": 3973,
+    "nameOfShip": "Container-13",
+    "typeOfCargo": "CONTAINER",
+    "weight": 1101,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 27,
-      "hourOfDay": 10,
-      "minute": 18,
+      "hourOfDay": 9,
+      "minute": 13,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 9,
+      "minute": 13,
+      "second": 0
+    },
+    "timeOfUnload": 695,
+    "timeOfWait": 1208,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 5,
+      "minute": 21,
+      "second": 0
+    },
+    "delayOfUnload": 420
+  },
+  {
+    "nameOfShip": "Container-18",
+    "typeOfCargo": "CONTAINER",
+    "weight": 311,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 11,
+      "minute": 9,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 22,
-      "hourOfDay": 10,
-      "minute": 18,
+      "hourOfDay": 11,
+      "minute": 9,
       "second": 0
     },
-    "timeOfUnload": 1870,
-    "timeOfWait": 19982,
+    "timeOfUnload": 161,
+    "timeOfWait": 347,
     "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 11,
-      "hourOfDay": 7,
-      "minute": 20,
-      "second": 0
-    },
-    "delayOfUnload": 1076
-  },
-  {
-    "nameOfShip": "Tanker-19",
-    "typeOfCargo": "TANKER",
-    "weight": 2720,
-    "timeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 28,
-      "hourOfDay": 2,
-      "minute": 20,
+      "hourOfDay": 16,
+      "minute": 56,
+      "second": 0
+    },
+    "delayOfUnload": 84
+  }
+]"Container Fine: 17200 Amount Of Cranes: 2 Amount Of Ships: 29 Max time of wait 5:13:5 Average time Of wait: 2:8:55 Max time of delay unload 0:23:48 Average time of delay of unload: 0:12:4"
+[
+  {
+    "nameOfShip": "Tanker-7",
+    "typeOfCargo": "TANKER",
+    "weight": 8842,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 17,
+      "minute": 30,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 2,
-      "minute": 20,
+      "dayOfMonth": 3,
+      "hourOfDay": 17,
+      "minute": 30,
       "second": 0
     },
-    "timeOfUnload": 1022,
-    "timeOfWait": 21057,
+    "timeOfUnload": 2554,
+    "timeOfWait": 0,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 12,
+      "month": 3,
+      "dayOfMonth": 2,
       "hourOfDay": 17,
-      "minute": 17,
+      "minute": 30,
       "second": 0
     },
-    "delayOfUnload": 478
+    "delayOfUnload": 786
+  },
+  {
+    "nameOfShip": "Tanker-2",
+    "typeOfCargo": "TANKER",
+    "weight": 1025,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 21,
+      "minute": 57,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 5,
+      "hourOfDay": 21,
+      "minute": 57,
+      "second": 0
+    },
+    "timeOfUnload": 1583,
+    "timeOfWait": 2287,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 12,
+      "minute": 4,
+      "second": 0
+    },
+    "delayOfUnload": 1378
+  },
+  {
+    "nameOfShip": "Tanker-8",
+    "typeOfCargo": "TANKER",
+    "weight": 3014,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 5,
+      "hourOfDay": 20,
+      "minute": 55,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 20,
+      "minute": 55,
+      "second": 0
+    },
+    "timeOfUnload": 1716,
+    "timeOfWait": 0,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 5,
+      "hourOfDay": 20,
+      "minute": 55,
+      "second": 0
+    },
+    "delayOfUnload": 1114
+  },
+  {
+    "nameOfShip": "Tanker-28",
+    "typeOfCargo": "TANKER",
+    "weight": 2585,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 6,
+      "hourOfDay": 11,
+      "minute": 16,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 11,
+      "minute": 16,
+      "second": 0
+    },
+    "timeOfUnload": 756,
+    "timeOfWait": 1710,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 15,
+      "minute": 46,
+      "second": 0
+    },
+    "delayOfUnload": 239
   },
   {
     "nameOfShip": "Tanker-14",
     "typeOfCargo": "TANKER",
-    "weight": 9499,
+    "weight": 9139,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 16,
-      "minute": 13,
+      "dayOfMonth": 7,
+      "hourOfDay": 2,
+      "minute": 12,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 29,
-      "hourOfDay": 16,
+      "dayOfMonth": 11,
+      "hourOfDay": 2,
+      "minute": 12,
+      "second": 0
+    },
+    "timeOfUnload": 2471,
+    "timeOfWait": 715,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 14,
+      "minute": 7,
+      "second": 0
+    },
+    "delayOfUnload": 644
+  },
+  {
+    "nameOfShip": "Tanker-16",
+    "typeOfCargo": "TANKER",
+    "weight": 9098,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 6,
+      "minute": 58,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 6,
+      "minute": 58,
+      "second": 0
+    },
+    "timeOfUnload": 2051,
+    "timeOfWait": 3329,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 14,
+      "minute": 27,
+      "second": 0
+    },
+    "delayOfUnload": 232
+  },
+  {
+    "nameOfShip": "Tanker-26",
+    "typeOfCargo": "TANKER",
+    "weight": 9602,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 13,
+      "minute": 42,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 13,
+      "minute": 42,
+      "second": 0
+    },
+    "timeOfUnload": 3356,
+    "timeOfWait": 6328,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 23,
+      "minute": 10,
+      "second": 0
+    },
+    "delayOfUnload": 1436
+  },
+  {
+    "nameOfShip": "Tanker-25",
+    "typeOfCargo": "TANKER",
+    "weight": 3037,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 8,
+      "hourOfDay": 5,
+      "minute": 4,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 5,
+      "minute": 4,
+      "second": 0
+    },
+    "timeOfUnload": 992,
+    "timeOfWait": 8135,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 20,
+      "minute": 39,
+      "second": 0
+    },
+    "delayOfUnload": 385
+  },
+  {
+    "nameOfShip": "Tanker-18",
+    "typeOfCargo": "TANKER",
+    "weight": 9162,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 8,
+      "hourOfDay": 14,
+      "minute": 53,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 14,
+      "minute": 53,
+      "second": 0
+    },
+    "timeOfUnload": 2220,
+    "timeOfWait": 11010,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 6,
+      "minute": 23,
+      "second": 0
+    },
+    "delayOfUnload": 388
+  },
+  {
+    "nameOfShip": "Tanker-4",
+    "typeOfCargo": "TANKER",
+    "weight": 4589,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 7,
+      "minute": 48,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 6,
+      "hourOfDay": 7,
+      "minute": 48,
+      "second": 0
+    },
+    "timeOfUnload": 1469,
+    "timeOfWait": 9131,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 15,
+      "minute": 59,
+      "second": 0
+    },
+    "delayOfUnload": 552
+  },
+  {
+    "nameOfShip": "Tanker-10",
+    "typeOfCargo": "TANKER",
+    "weight": 8205,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 7,
+      "minute": 56,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 6,
+      "hourOfDay": 7,
+      "minute": 56,
+      "second": 0
+    },
+    "timeOfUnload": 2864,
+    "timeOfWait": 9113,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 15,
+      "minute": 49,
+      "second": 0
+    },
+    "delayOfUnload": 1223
+  },
+  {
+    "nameOfShip": "Tanker-5",
+    "typeOfCargo": "TANKER",
+    "weight": 6713,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 0,
+      "minute": 17,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 0,
+      "minute": 17,
+      "second": 0
+    },
+    "timeOfUnload": 2043,
+    "timeOfWait": 4733,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 7,
+      "minute": 10,
+      "second": 0
+    },
+    "delayOfUnload": 701
+  },
+  {
+    "nameOfShip": "Tanker-15",
+    "typeOfCargo": "TANKER",
+    "weight": 8755,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 20,
+      "minute": 11,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 20,
+      "minute": 11,
+      "second": 0
+    },
+    "timeOfUnload": 2543,
+    "timeOfWait": 5582,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 17,
       "minute": 13,
       "second": 0
     },
-    "timeOfUnload": 2211,
-    "timeOfWait": 21154,
-    "timeOfUnloadStart": {
-      "year": 2021,
-      "month": 4,
-      "dayOfMonth": 13,
-      "hourOfDay": 8,
-      "minute": 47,
-      "second": 0
-    },
-    "delayOfUnload": 312
+    "delayOfUnload": 792
   },
   {
     "nameOfShip": "Tanker-6",
     "typeOfCargo": "TANKER",
-    "weight": 5859,
+    "weight": 4800,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 28,
-      "hourOfDay": 20,
-      "minute": 18,
+      "dayOfMonth": 15,
+      "hourOfDay": 22,
+      "minute": 0,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 22,
+      "minute": 0,
+      "second": 0
+    },
+    "timeOfUnload": 2198,
+    "timeOfWait": 8756,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 23,
+      "minute": 56,
+      "second": 0
+    },
+    "delayOfUnload": 1238
+  },
+  {
+    "nameOfShip": "Tanker-13",
+    "typeOfCargo": "TANKER",
+    "weight": 2507,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 22,
+      "minute": 42,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 12,
+      "hourOfDay": 22,
+      "minute": 42,
+      "second": 0
+    },
+    "timeOfUnload": 724,
+    "timeOfWait": 12564,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 16,
+      "minute": 6,
+      "second": 0
+    },
+    "delayOfUnload": 223
+  },
+  {
+    "nameOfShip": "Tanker-9",
+    "typeOfCargo": "TANKER",
+    "weight": 9119,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 22,
+      "minute": 55,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 22,
+      "minute": 55,
+      "second": 0
+    },
+    "timeOfUnload": 2013,
+    "timeOfWait": 13986,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 16,
+      "minute": 1,
+      "second": 0
+    },
+    "delayOfUnload": 190
+  },
+  {
+    "nameOfShip": "Tanker-3",
+    "typeOfCargo": "TANKER",
+    "weight": 3288,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 3,
+      "minute": 56,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 22,
-      "hourOfDay": 20,
-      "minute": 18,
+      "hourOfDay": 3,
+      "minute": 56,
       "second": 0
     },
-    "timeOfUnload": 2423,
-    "timeOfWait": 23156,
+    "timeOfUnload": 1443,
+    "timeOfWait": 8275,
     "timeOfUnloadStart": {
       "year": 2021,
-      "month": 4,
-      "dayOfMonth": 14,
-      "hourOfDay": 22,
-      "minute": 14,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 21,
+      "minute": 51,
       "second": 0
     },
-    "delayOfUnload": 1252
+    "delayOfUnload": 786
   },
   {
-    "nameOfShip": "Tanker-9",
+    "nameOfShip": "Tanker-22",
+    "typeOfCargo": "TANKER",
+    "weight": 496,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 5,
+      "minute": 36,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 5,
+      "minute": 36,
+      "second": 0
+    },
+    "timeOfUnload": 1181,
+    "timeOfWait": 10961,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 20,
+      "minute": 17,
+      "second": 0
+    },
+    "delayOfUnload": 1082
+  },
+  {
+    "nameOfShip": "Tanker-24",
     "typeOfCargo": "TANKER",
     "weight": 7748,
     "timeOfArrival": {
       "year": 2021,
       "month": 3,
-      "dayOfMonth": 30,
-      "hourOfDay": 6,
-      "minute": 33,
+      "dayOfMonth": 21,
+      "hourOfDay": 17,
+      "minute": 48,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 17,
+      "minute": 48,
+      "second": 0
+    },
+    "timeOfUnload": 2260,
+    "timeOfWait": 7187,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 17,
+      "minute": 35,
+      "second": 0
+    },
+    "delayOfUnload": 711
+  },
+  {
+    "nameOfShip": "Tanker-20",
+    "typeOfCargo": "TANKER",
+    "weight": 5970,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 1,
+      "minute": 45,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 23,
+      "hourOfDay": 1,
+      "minute": 45,
+      "second": 0
+    },
+    "timeOfUnload": 2028,
+    "timeOfWait": 10753,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 12,
+      "minute": 58,
+      "second": 0
+    },
+    "delayOfUnload": 834
+  },
+  {
+    "nameOfShip": "Tanker-29",
+    "typeOfCargo": "TANKER",
+    "weight": 8222,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 14,
+      "minute": 38,
       "second": 0
     },
     "scheduledTimeOfArrival": {
       "year": 2021,
       "month": 3,
       "dayOfMonth": 27,
-      "hourOfDay": 6,
-      "minute": 33,
+      "hourOfDay": 14,
+      "minute": 38,
       "second": 0
     },
-    "timeOfUnload": 2963,
-    "timeOfWait": 23892,
+    "timeOfUnload": 1960,
+    "timeOfWait": 7345,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 17,
+      "minute": 3,
+      "second": 0
+    },
+    "delayOfUnload": 316
+  },
+  {
+    "nameOfShip": "Tanker-27",
+    "typeOfCargo": "TANKER",
+    "weight": 418,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 17,
+      "minute": 14,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 17,
+      "minute": 14,
+      "second": 0
+    },
+    "timeOfUnload": 795,
+    "timeOfWait": 6269,
     "timeOfUnloadStart": {
       "year": 2021,
       "month": 4,
-      "dayOfMonth": 16,
-      "hourOfDay": 20,
-      "minute": 45,
+      "dayOfMonth": 1,
+      "hourOfDay": 1,
+      "minute": 43,
       "second": 0
     },
-    "delayOfUnload": 1414
+    "delayOfUnload": 712
+  },
+  {
+    "nameOfShip": "Tanker-21",
+    "typeOfCargo": "TANKER",
+    "weight": 6966,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 17,
+      "minute": 16,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 17,
+      "minute": 16,
+      "second": 0
+    },
+    "timeOfUnload": 1863,
+    "timeOfWait": 4182,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 1,
+      "hourOfDay": 14,
+      "minute": 58,
+      "second": 0
+    },
+    "delayOfUnload": 470
+  },
+  {
+    "nameOfShip": "Tanker-11",
+    "typeOfCargo": "TANKER",
+    "weight": 9314,
+    "timeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 3,
+      "minute": 38,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 3,
+      "minute": 38,
+      "second": 0
+    },
+    "timeOfUnload": 2153,
+    "timeOfWait": 5423,
+    "timeOfUnloadStart": {
+      "year": 2021,
+      "month": 4,
+      "dayOfMonth": 2,
+      "hourOfDay": 22,
+      "minute": 1,
+      "second": 0
+    },
+    "delayOfUnload": 291
   }
-]"Tanker Fine: 53900 Amount Of Cranes: 2 Amount Of Ships: 37 Max time of wait 16:14:12 Average time Of wait: 7:20:52 Max time of delay unload 0:23:34 Average time of delay of unload: 0:12:41"
+]"Tanker Fine: 52200 Amount Of Cranes: 2 Amount Of Ships: 24 Max time of wait 9:17:6 Average time Of wait: 4:13:33 Max time of delay unload 0:23:56 Average time of delay of unload: 0:11:36"

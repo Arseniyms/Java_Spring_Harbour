@@ -9,7 +9,6 @@ public class Utils {
     public static final int PENALTY_PER_HOUR = 100;
     public static final int MINUTES_OF_WAIT = 60;
 
-
     public static void pause(long millis)
     {
         try {
